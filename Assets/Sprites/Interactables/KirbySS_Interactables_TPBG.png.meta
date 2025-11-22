@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: d398d4a6ea7cba3459dc7c8f93dcb815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8604250116038153491
+    second: KirbySS_Interactables_TPBG_0
+  - first:
+      213: 8237286802917215977
+    second: KirbySS_Interactables_TPBG_1
+  - first:
+      213: 3986236165870828993
+    second: KirbySS_Interactables_TPBG_2
+  - first:
+      213: -1399961121585780292
+    second: KirbySS_Interactables_TPBG_3
+  - first:
+      213: -8243431297024957389
+    second: KirbySS_Interactables_TPBG_4
+  - first:
+      213: 4861185139874072987
+    second: KirbySS_Interactables_TPBG_5
+  - first:
+      213: -5920566127931012654
+    second: KirbySS_Interactables_TPBG_6
+  - first:
+      213: -4512006271362521581
+    second: KirbySS_Interactables_TPBG_7
+  - first:
+      213: 4768112085216551343
+    second: KirbySS_Interactables_TPBG_8
+  - first:
+      213: -2427058209969108553
+    second: KirbySS_Interactables_TPBG_9
+  - first:
+      213: -7313146428628847881
+    second: KirbySS_Interactables_TPBG_10
+  - first:
+      213: 476700022988344889
+    second: KirbySS_Interactables_TPBG_11
+  - first:
+      213: -817636841533059981
+    second: KirbySS_Interactables_TPBG_12
+  - first:
+      213: 1235868338752999487
+    second: KirbySS_Interactables_TPBG_13
+  - first:
+      213: 6621994621113807144
+    second: KirbySS_Interactables_TPBG_14
+  - first:
+      213: -5202998834859123016
+    second: KirbySS_Interactables_TPBG_15
+  - first:
+      213: 8323311696037119371
+    second: KirbySS_Interactables_TPBG_16
+  - first:
+      213: 557465020586465781
+    second: KirbySS_Interactables_TPBG_17
+  - first:
+      213: -354111318097135983
+    second: KirbySS_Interactables_TPBG_18
+  - first:
+      213: 8889489520404390183
+    second: KirbySS_Interactables_TPBG_19
+  - first:
+      213: 982125224864099841
+    second: KirbySS_Interactables_TPBG_20
+  - first:
+      213: -1314792223283574322
+    second: KirbySS_Interactables_TPBG_21
+  - first:
+      213: 7657895296479480548
+    second: KirbySS_Interactables_TPBG_22
+  - first:
+      213: -3983028685146001036
+    second: KirbySS_Interactables_TPBG_23
+  - first:
+      213: 207968577372336523
+    second: KirbySS_Interactables_TPBG_24
+  - first:
+      213: 1980133917812700679
+    second: KirbySS_Interactables_TPBG_25
+  - first:
+      213: -4848997409737022342
+    second: KirbySS_Interactables_TPBG_26
+  - first:
+      213: 3162979875100722561
+    second: KirbySS_Interactables_TPBG_27
+  - first:
+      213: 4518232403676628532
+    second: KirbySS_Interactables_TPBG_28
+  - first:
+      213: -7087538152098949784
+    second: KirbySS_Interactables_TPBG_29
+  - first:
+      213: -1758965508169016155
+    second: KirbySS_Interactables_TPBG_30
+  - first:
+      213: -1922529320138650493
+    second: KirbySS_Interactables_TPBG_31
+  - first:
+      213: -7184854422412568338
+    second: KirbySS_Interactables_TPBG_32
+  - first:
+      213: -1116693007592120077
+    second: KirbySS_Interactables_TPBG_33
+  - first:
+      213: 3104914661270141334
+    second: KirbySS_Interactables_TPBG_34
+  - first:
+      213: -5975102069946476456
+    second: KirbySS_Interactables_TPBG_35
+  - first:
+      213: -4134495292332484151
+    second: KirbySS_Interactables_TPBG_36
+  - first:
+      213: -2603672689714573334
+    second: KirbySS_Interactables_TPBG_37
+  - first:
+      213: -1921594300940576025
+    second: KirbySS_Interactables_TPBG_38
+  - first:
+      213: -3237897155846020500
+    second: KirbySS_Interactables_TPBG_39
+  - first:
+      213: -6055178548441113591
+    second: KirbySS_Interactables_TPBG_40
+  - first:
+      213: -8612635442868237418
+    second: KirbySS_Interactables_TPBG_41
+  - first:
+      213: 5574442995773531209
+    second: KirbySS_Interactables_TPBG_42
+  - first:
+      213: -2090440727191188738
+    second: KirbySS_Interactables_TPBG_43
+  - first:
+      213: 528450855635869047
+    second: KirbySS_Interactables_TPBG_44
+  - first:
+      213: 6487083676873208719
+    second: KirbySS_Interactables_TPBG_45
+  - first:
+      213: -5454716043839620110
+    second: KirbySS_Interactables_TPBG_46
+  - first:
+      213: 5033318598699067015
+    second: KirbySS_Interactables_TPBG_47
+  - first:
+      213: 393998449704734452
+    second: KirbySS_Interactables_TPBG_48
+  - first:
+      213: 7289861162234942112
+    second: KirbySS_Interactables_TPBG_49
+  - first:
+      213: -6238239243343863482
+    second: KirbySS_Interactables_TPBG_50
+  - first:
+      213: -7026702664479042948
+    second: KirbySS_Interactables_TPBG_51
+  - first:
+      213: 8570764733761030
+    second: KirbySS_Interactables_TPBG_52
+  - first:
+      213: 1245034321866973181
+    second: KirbySS_Interactables_TPBG_53
+  - first:
+      213: -7027042619635952766
+    second: KirbySS_Interactables_TPBG_54
+  - first:
+      213: 5286981241798085189
+    second: KirbySS_Interactables_TPBG_55
+  - first:
+      213: 2175108402470647769
+    second: KirbySS_Interactables_TPBG_56
+  - first:
+      213: 2276421541795947020
+    second: KirbySS_Interactables_TPBG_57
+  - first:
+      213: 857342422958266834
+    second: KirbySS_Interactables_TPBG_58
+  - first:
+      213: -4002550681923497161
+    second: KirbySS_Interactables_TPBG_59
+  - first:
+      213: -4357546737899033824
+    second: KirbySS_Interactables_TPBG_60
+  - first:
+      213: 6617706554899055380
+    second: KirbySS_Interactables_TPBG_61
+  - first:
+      213: 7439557292116662212
+    second: KirbySS_Interactables_TPBG_62
+  - first:
+      213: -3078074849674656533
+    second: KirbySS_Interactables_TPBG_63
+  - first:
+      213: 289755604402360289
+    second: KirbySS_Interactables_TPBG_64
+  - first:
+      213: -4457640866821304251
+    second: KirbySS_Interactables_TPBG_65
+  - first:
+      213: 4799554992462597146
+    second: KirbySS_Interactables_TPBG_66
+  - first:
+      213: 2514050682724449587
+    second: KirbySS_Interactables_TPBG_67
+  - first:
+      213: 3720802016511530987
+    second: KirbySS_Interactables_TPBG_68
+  - first:
+      213: -1211702530791138454
+    second: KirbySS_Interactables_TPBG_69
+  - first:
+      213: -4231478404510192495
+    second: KirbySS_Interactables_TPBG_70
+  - first:
+      213: 9192465504621799680
+    second: KirbySS_Interactables_TPBG_71
+  - first:
+      213: -4661135443988321005
+    second: KirbySS_Interactables_TPBG_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 635
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaaee25b10979880800000000000000
+      internalID: -8604250116038153491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 635
+        width: 16
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdbb814ca4f15730800000000000000
+      internalID: 3986236165870828993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 635
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a588f6c6529ce0800000000000000
+      internalID: -1399961121585780292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 635
+        width: 16
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b990a990126667340800000000000000
+      internalID: 4861185139874072987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d94673a97ce5dda0800000000000000
+      internalID: -5920566127931012654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Closed
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 635
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162a1ba3322261c0800000000000000
+      internalID: -4512006271362521581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Open
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 635
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16490ddacbb2240800000000000000
+      internalID: 4768112085216551343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump_Up
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 635
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98899ca6b515ed0800000000000000
+      internalID: -2427058209969108553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump_Down
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 635
+        width: 22
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f23923e11c728a90800000000000000
+      internalID: -7313146428628847881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switch_Up
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 635
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e04ae25249d9600800000000000000
+      internalID: 476700022988344889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switch_Down
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 635
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4629ef9b27a4f0800000000000000
+      internalID: -817636841533059981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 599
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305688c4bfa62110800000000000000
+      internalID: 1235868338752999487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingPlatform
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 599
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213908e50d06eb50800000000000000
+      internalID: 6621994621113807144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 599
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be5379502c3bc7b0800000000000000
+      internalID: -5202998834859123016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 599
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85852583e7528370800000000000000
+      internalID: 8323311696037119371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 599
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f913ce8b738cb700800000000000000
+      internalID: 557465020586465781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 540
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ffd1e1a1f51bf0800000000000000
+      internalID: -354111318097135983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 547
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e24ace9fcd5b70800000000000000
+      internalID: 8889489520404390183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 558
+        width: 39
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea9f040b531ad00800000000000000
+      internalID: 982125224864099841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 539
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec98cb1607be0cde0800000000000000
+      internalID: -1314792223283574322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 530
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4bc9e23f464a60800000000000000
+      internalID: 7657895296479480548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 530
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717eab838079b8c0800000000000000
+      internalID: -3983028685146001036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 530
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b8bab15ad2e200800000000000000
+      internalID: 207968577372336523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 530
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706bdea9e49da7b10800000000000000
+      internalID: 1980133917812700679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 474
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74e5d30c86e4bcb0800000000000000
+      internalID: -4848997409737022342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 474
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185861f207925eb20800000000000000
+      internalID: 3162979875100722561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 474
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4360ec9be6cf3be30800000000000000
+      internalID: 4518232403676628532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 474
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8651d102a9104ad90800000000000000
+      internalID: -7087538152098949784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acdb619036e697e0800000000000000
+      internalID: -1758965508169016155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 381
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cccd2f4cdc155e0800000000000000
+      internalID: -1922529320138650493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Small_Up
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 325
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b8e21f6fd61b20800000000000000
+      internalID: 3104914661270141334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Big_Up
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 306
+        width: 54
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589328235c241da0800000000000000
+      internalID: -5975102069946476456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Big_Down
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 306
+        width: 60
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95ff6ef625f96c0800000000000000
+      internalID: -4134495292332484151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Small_Down
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 306
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef4d2acb75eddbd0800000000000000
+      internalID: -2603672689714573334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 245
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea95021a202555e0800000000000000
+      internalID: -1921594300940576025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 245
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ec8e11bda013d0800000000000000
+      internalID: -3237897155846020500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 241
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1a90213fa7fba0800000000000000
+      internalID: -6055178548441113591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 244
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b46e742b5c97880800000000000000
+      internalID: -8612635442868237418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944eeb7be566c5d40800000000000000
+      internalID: 5574442995773531209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 244
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa82c7fb334df2e0800000000000000
+      internalID: -2090440727191188738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 211
+        width: 40
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5d6bd04f655700800000000000000
+      internalID: 528450855635869047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 204
+        width: 40
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83334ceb30c60a50800000000000000
+      internalID: 6487083676873208719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 208
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb05098a4fc44b0800000000000000
+      internalID: -5454716043839620110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 208
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416694b5725d69a0800000000000000
+      internalID: -6238239243343863482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 163
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fa3d51998f2e10800000000000000
+      internalID: 2175108402470647769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026bcdc459779f10800000000000000
+      internalID: 2276421541795947020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9dc4b2464e5eb00800000000000000
+      internalID: 857342422958266834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_59
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 165
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d3787c551478c0800000000000000
+      internalID: -4002550681923497161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 162
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bad534452e683c0800000000000000
+      internalID: -4357546737899033824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_Interactables_TPBG_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 165
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134880bc01d6db50800000000000000
+      internalID: 6617706554899055380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_N
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc410ef2b650400800000000000000
+      internalID: 289755604402360289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_NE
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 82
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5401adccf374322c0800000000000000
+      internalID: -4457640866821304251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_SE
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c8fa526d17b9240800000000000000
+      internalID: 4799554992462597146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_S
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d7e13a6c3b3e220800000000000000
+      internalID: 2514050682724449587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_SW
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71ab968b1f2a330800000000000000
+      internalID: 3720802016511530987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_NW
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 82
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b90c6d7fa2f2fe0800000000000000
+      internalID: -1211702530791138454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_W
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a3053ca2329f70800000000000000
+      internalID: 9192465504621799680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_E
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de71b6202505fb0800000000000000
+      internalID: -4661135443988321005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8db5a8f97b2100d4f8d1f65982906a09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Button_Big_Down: -4134495292332484151
+      Button_Big_Up: -5975102069946476456
+      Button_Small_Down: -2603672689714573334
+      Button_Small_Up: 3104914661270141334
+      Cannon_E: -4661135443988321005
+      Cannon_N: 289755604402360289
+      Cannon_NE: -4457640866821304251
+      Cannon_NW: -1211702530791138454
+      Cannon_S: 2514050682724449587
+      Cannon_SE: 4799554992462597146
+      Cannon_SW: 3720802016511530987
+      Cannon_W: 9192465504621799680
+      Chest_Closed: -4512006271362521581
+      Chest_Open: 4768112085216551343
+      KirbySS_Interactables_TPBG_0: -8604250116038153491
+      KirbySS_Interactables_TPBG_1: 8237286802917215977
+      KirbySS_Interactables_TPBG_15: -5202998834859123016
+      KirbySS_Interactables_TPBG_16: 8323311696037119371
+      KirbySS_Interactables_TPBG_17: 557465020586465781
+      KirbySS_Interactables_TPBG_18: -354111318097135983
+      KirbySS_Interactables_TPBG_19: 8889489520404390183
+      KirbySS_Interactables_TPBG_2: 3986236165870828993
+      KirbySS_Interactables_TPBG_20: 982125224864099841
+      KirbySS_Interactables_TPBG_21: -1314792223283574322
+      KirbySS_Interactables_TPBG_22: 7657895296479480548
+      KirbySS_Interactables_TPBG_23: -3983028685146001036
+      KirbySS_Interactables_TPBG_24: 207968577372336523
+      KirbySS_Interactables_TPBG_25: 1980133917812700679
+      KirbySS_Interactables_TPBG_26: -4848997409737022342
+      KirbySS_Interactables_TPBG_27: 3162979875100722561
+      KirbySS_Interactables_TPBG_28: 4518232403676628532
+      KirbySS_Interactables_TPBG_29: -7087538152098949784
+      KirbySS_Interactables_TPBG_3: -1399961121585780292
+      KirbySS_Interactables_TPBG_30: -1758965508169016155
+      KirbySS_Interactables_TPBG_31: -1922529320138650493
+      KirbySS_Interactables_TPBG_32: -7184854422412568338
+      KirbySS_Interactables_TPBG_33: -1116693007592120077
+      KirbySS_Interactables_TPBG_38: -1921594300940576025
+      KirbySS_Interactables_TPBG_39: -3237897155846020500
+      KirbySS_Interactables_TPBG_4: -8243431297024957389
+      KirbySS_Interactables_TPBG_40: -6055178548441113591
+      KirbySS_Interactables_TPBG_41: -8612635442868237418
+      KirbySS_Interactables_TPBG_42: 5574442995773531209
+      KirbySS_Interactables_TPBG_43: -2090440727191188738
+      KirbySS_Interactables_TPBG_44: 528450855635869047
+      KirbySS_Interactables_TPBG_45: 6487083676873208719
+      KirbySS_Interactables_TPBG_46: -5454716043839620110
+      KirbySS_Interactables_TPBG_47: 5033318598699067015
+      KirbySS_Interactables_TPBG_48: 393998449704734452
+      KirbySS_Interactables_TPBG_49: 7289861162234942112
+      KirbySS_Interactables_TPBG_5: 4861185139874072987
+      KirbySS_Interactables_TPBG_50: -6238239243343863482
+      KirbySS_Interactables_TPBG_51: -7026702664479042948
+      KirbySS_Interactables_TPBG_52: 8570764733761030
+      KirbySS_Interactables_TPBG_53: 1245034321866973181
+      KirbySS_Interactables_TPBG_54: -7027042619635952766
+      KirbySS_Interactables_TPBG_55: 5286981241798085189
+      KirbySS_Interactables_TPBG_56: 2175108402470647769
+      KirbySS_Interactables_TPBG_57: 2276421541795947020
+      KirbySS_Interactables_TPBG_58: 857342422958266834
+      KirbySS_Interactables_TPBG_59: -4002550681923497161
+      KirbySS_Interactables_TPBG_6: -5920566127931012654
+      KirbySS_Interactables_TPBG_60: -4357546737899033824
+      KirbySS_Interactables_TPBG_61: 6617706554899055380
+      KirbySS_Interactables_TPBG_62: 7439557292116662212
+      KirbySS_Interactables_TPBG_63: -3078074849674656533
+      KirbySS_Interactables_TPBG_70: -4231478404510192495
+      Metal: 1235868338752999487
+      MovingPlatform: 6621994621113807144
+      Stump_Down: -7313146428628847881
+      Stump_Up: -2427058209969108553
+      Switch_Down: -817636841533059981
+      Switch_Up: 476700022988344889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

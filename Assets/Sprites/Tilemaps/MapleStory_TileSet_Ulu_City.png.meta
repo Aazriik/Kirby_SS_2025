@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 55e00b1f7b2672f448cdd06d2e57aa59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8683899029023512301
+    second: MapleStory_TileSet_Ulu_City_0
+  - first:
+      213: -3186304991079745111
+    second: MapleStory_TileSet_Ulu_City_1
+  - first:
+      213: 9171524111496058703
+    second: MapleStory_TileSet_Ulu_City_2
+  - first:
+      213: 2346366621963389022
+    second: MapleStory_TileSet_Ulu_City_3
+  - first:
+      213: 3257779317695987126
+    second: MapleStory_TileSet_Ulu_City_4
+  - first:
+      213: 1595156467920956297
+    second: MapleStory_TileSet_Ulu_City_5
+  - first:
+      213: 3643884610493913377
+    second: MapleStory_TileSet_Ulu_City_6
+  - first:
+      213: -7398509823450046821
+    second: MapleStory_TileSet_Ulu_City_7
+  - first:
+      213: 1983622973041899708
+    second: MapleStory_TileSet_Ulu_City_8
+  - first:
+      213: -580027222058094054
+    second: MapleStory_TileSet_Ulu_City_9
+  - first:
+      213: -5467554254892493953
+    second: MapleStory_TileSet_Ulu_City_10
+  - first:
+      213: 2572379876511032111
+    second: MapleStory_TileSet_Ulu_City_11
+  - first:
+      213: 3833099381875290420
+    second: MapleStory_TileSet_Ulu_City_12
+  - first:
+      213: 6988340502902326980
+    second: MapleStory_TileSet_Ulu_City_13
+  - first:
+      213: 421267105161746932
+    second: MapleStory_TileSet_Ulu_City_14
+  - first:
+      213: -1260307131070876954
+    second: MapleStory_TileSet_Ulu_City_15
+  - first:
+      213: 9015001206992710569
+    second: MapleStory_TileSet_Ulu_City_16
+  - first:
+      213: 5038000945505434597
+    second: MapleStory_TileSet_Ulu_City_17
+  - first:
+      213: 6734235488238479468
+    second: MapleStory_TileSet_Ulu_City_18
+  - first:
+      213: 1855004497272656911
+    second: MapleStory_TileSet_Ulu_City_19
+  - first:
+      213: 476727689552822006
+    second: MapleStory_TileSet_Ulu_City_20
+  - first:
+      213: 8805635489880701888
+    second: MapleStory_TileSet_Ulu_City_21
+  - first:
+      213: -2885901900560854385
+    second: MapleStory_TileSet_Ulu_City_22
+  - first:
+      213: 1873403961816197301
+    second: MapleStory_TileSet_Ulu_City_23
+  - first:
+      213: 1488011504839334339
+    second: MapleStory_TileSet_Ulu_City_24
+  - first:
+      213: -8442067620442115091
+    second: MapleStory_TileSet_Ulu_City_25
+  - first:
+      213: -8917338677274389605
+    second: MapleStory_TileSet_Ulu_City_26
+  - first:
+      213: 4804546742004075895
+    second: MapleStory_TileSet_Ulu_City_27
+  - first:
+      213: -6037008209955264985
+    second: MapleStory_TileSet_Ulu_City_28
+  - first:
+      213: 2283360537993420289
+    second: MapleStory_TileSet_Ulu_City_29
+  - first:
+      213: -4929889575294452002
+    second: MapleStory_TileSet_Ulu_City_30
+  - first:
+      213: -6860885951516446289
+    second: MapleStory_TileSet_Ulu_City_31
+  - first:
+      213: -213928681362483286
+    second: MapleStory_TileSet_Ulu_City_32
+  - first:
+      213: 2478195927960215276
+    second: MapleStory_TileSet_Ulu_City_33
+  - first:
+      213: -3578687421871633670
+    second: MapleStory_TileSet_Ulu_City_34
+  - first:
+      213: 7616438850880596057
+    second: MapleStory_TileSet_Ulu_City_35
+  - first:
+      213: -6783225254800210907
+    second: MapleStory_TileSet_Ulu_City_36
+  - first:
+      213: -5606066883524846943
+    second: MapleStory_TileSet_Ulu_City_37
+  - first:
+      213: -7261413913791109859
+    second: MapleStory_TileSet_Ulu_City_38
+  - first:
+      213: 1939536988233797983
+    second: MapleStory_TileSet_Ulu_City_39
+  - first:
+      213: -8414111298777759476
+    second: MapleStory_TileSet_Ulu_City_40
+  - first:
+      213: 5822320859755676915
+    second: MapleStory_TileSet_Ulu_City_41
+  - first:
+      213: -2514072596731047578
+    second: MapleStory_TileSet_Ulu_City_42
+  - first:
+      213: 6392962429051118287
+    second: MapleStory_TileSet_Ulu_City_43
+  - first:
+      213: -491758332944476740
+    second: MapleStory_TileSet_Ulu_City_44
+  - first:
+      213: -5001348939642834473
+    second: MapleStory_TileSet_Ulu_City_45
+  - first:
+      213: -5855851202880625894
+    second: MapleStory_TileSet_Ulu_City_46
+  - first:
+      213: 3340410633926211888
+    second: MapleStory_TileSet_Ulu_City_47
+  - first:
+      213: -3296052034471297610
+    second: MapleStory_TileSet_Ulu_City_48
+  - first:
+      213: 64134355266064529
+    second: MapleStory_TileSet_Ulu_City_49
+  - first:
+      213: 6735644885882272321
+    second: MapleStory_TileSet_Ulu_City_50
+  - first:
+      213: -4449407012836330988
+    second: MapleStory_TileSet_Ulu_City_51
+  - first:
+      213: 2712991781415293253
+    second: MapleStory_TileSet_Ulu_City_52
+  - first:
+      213: -8777281395318454434
+    second: MapleStory_TileSet_Ulu_City_53
+  - first:
+      213: 5555176234189418907
+    second: MapleStory_TileSet_Ulu_City_54
+  - first:
+      213: -4886994335812117401
+    second: MapleStory_TileSet_Ulu_City_55
+  - first:
+      213: 4275395089977649515
+    second: MapleStory_TileSet_Ulu_City_56
+  - first:
+      213: 1571234573243219902
+    second: MapleStory_TileSet_Ulu_City_57
+  - first:
+      213: -2973617979090535254
+    second: MapleStory_TileSet_Ulu_City_58
+  - first:
+      213: -2075564273988376247
+    second: MapleStory_TileSet_Ulu_City_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 300
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65e4a5828638870800000000000000
+      internalID: 8683899029023512301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 300
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a933ac0e78f7c3d0800000000000000
+      internalID: -3186304991079745111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 300
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4717aa269cc74f70800000000000000
+      internalID: 9171524111496058703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5806f6d208ff8020800000000000000
+      internalID: 2346366621963389022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 300
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd32eb6705f53d20800000000000000
+      internalID: 3257779317695987126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 226
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b68972b52232610800000000000000
+      internalID: 1595156467920956297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 226
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12990034fbda19230800000000000000
+      internalID: 3643884610493913377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 226
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e950ab386335990800000000000000
+      internalID: -7398509823450046821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 226
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87774959e378b10800000000000000
+      internalID: 1983622973041899708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 183
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6615d4c1b483c1dd0800000000000000
+      internalID: -2514072596731047578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a206357d58b850800000000000000
+      internalID: 6392962429051118287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 183
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59181d66cec29f0800000000000000
+      internalID: -491758332944476740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 183
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1ffce33a3a79ab0800000000000000
+      internalID: -5001348939642834473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 182
+        width: 90
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a1ca4b56dbbea0800000000000000
+      internalID: -5855851202880625894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 149
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039fb17f5c58b5e20800000000000000
+      internalID: 3340410633926211888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 146
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd722c43221242d0800000000000000
+      internalID: -3296052034471297610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19058873bd9d3e000800000000000000
+      internalID: 64134355266064529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 104
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a70343651d97d50800000000000000
+      internalID: 6735644885882272321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 104
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41232c255e78042c0800000000000000
+      internalID: -4449407012836330988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 104
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54110d1b6ab76a520800000000000000
+      internalID: 2712991781415293253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 104
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5706623315d03680800000000000000
+      internalID: -8777281395318454434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 104
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b917d873a53f71d40800000000000000
+      internalID: 5555176234189418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 104
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c92924b88ed2cb0800000000000000
+      internalID: -4886994335812117401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69219cae21455b30800000000000000
+      internalID: 4275395089977649515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf79f405852ec510800000000000000
+      internalID: 1571234573243219902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf792f3369bb6d0800000000000000
+      internalID: -2973617979090535254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_TileSet_Ulu_City_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496e642a4d1233e0800000000000000
+      internalID: -2075564273988376247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0ab23147ec4dd8f428bf322d93d58f79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MapleStory_TileSet_Ulu_City_0: 8683899029023512301
+      MapleStory_TileSet_Ulu_City_1: -3186304991079745111
+      MapleStory_TileSet_Ulu_City_10: -5467554254892493953
+      MapleStory_TileSet_Ulu_City_11: 2572379876511032111
+      MapleStory_TileSet_Ulu_City_12: 3833099381875290420
+      MapleStory_TileSet_Ulu_City_13: 6988340502902326980
+      MapleStory_TileSet_Ulu_City_14: 421267105161746932
+      MapleStory_TileSet_Ulu_City_15: -1260307131070876954
+      MapleStory_TileSet_Ulu_City_16: 9015001206992710569
+      MapleStory_TileSet_Ulu_City_17: 5038000945505434597
+      MapleStory_TileSet_Ulu_City_18: 6734235488238479468
+      MapleStory_TileSet_Ulu_City_19: 1855004497272656911
+      MapleStory_TileSet_Ulu_City_2: 9171524111496058703
+      MapleStory_TileSet_Ulu_City_20: 476727689552822006
+      MapleStory_TileSet_Ulu_City_21: 8805635489880701888
+      MapleStory_TileSet_Ulu_City_22: -2885901900560854385
+      MapleStory_TileSet_Ulu_City_23: 1873403961816197301
+      MapleStory_TileSet_Ulu_City_24: 1488011504839334339
+      MapleStory_TileSet_Ulu_City_25: -8442067620442115091
+      MapleStory_TileSet_Ulu_City_26: -8917338677274389605
+      MapleStory_TileSet_Ulu_City_27: 4804546742004075895
+      MapleStory_TileSet_Ulu_City_28: -6037008209955264985
+      MapleStory_TileSet_Ulu_City_29: 2283360537993420289
+      MapleStory_TileSet_Ulu_City_3: 2346366621963389022
+      MapleStory_TileSet_Ulu_City_30: -4929889575294452002
+      MapleStory_TileSet_Ulu_City_31: -6860885951516446289
+      MapleStory_TileSet_Ulu_City_32: -213928681362483286
+      MapleStory_TileSet_Ulu_City_33: 2478195927960215276
+      MapleStory_TileSet_Ulu_City_34: -3578687421871633670
+      MapleStory_TileSet_Ulu_City_35: 7616438850880596057
+      MapleStory_TileSet_Ulu_City_36: -6783225254800210907
+      MapleStory_TileSet_Ulu_City_37: -5606066883524846943
+      MapleStory_TileSet_Ulu_City_38: -7261413913791109859
+      MapleStory_TileSet_Ulu_City_39: 1939536988233797983
+      MapleStory_TileSet_Ulu_City_4: 3257779317695987126
+      MapleStory_TileSet_Ulu_City_40: -8414111298777759476
+      MapleStory_TileSet_Ulu_City_41: 5822320859755676915
+      MapleStory_TileSet_Ulu_City_42: -2514072596731047578
+      MapleStory_TileSet_Ulu_City_43: 6392962429051118287
+      MapleStory_TileSet_Ulu_City_44: -491758332944476740
+      MapleStory_TileSet_Ulu_City_45: -5001348939642834473
+      MapleStory_TileSet_Ulu_City_46: -5855851202880625894
+      MapleStory_TileSet_Ulu_City_47: 3340410633926211888
+      MapleStory_TileSet_Ulu_City_48: -3296052034471297610
+      MapleStory_TileSet_Ulu_City_49: 64134355266064529
+      MapleStory_TileSet_Ulu_City_5: 1595156467920956297
+      MapleStory_TileSet_Ulu_City_50: 6735644885882272321
+      MapleStory_TileSet_Ulu_City_51: -4449407012836330988
+      MapleStory_TileSet_Ulu_City_52: 2712991781415293253
+      MapleStory_TileSet_Ulu_City_53: -8777281395318454434
+      MapleStory_TileSet_Ulu_City_54: 5555176234189418907
+      MapleStory_TileSet_Ulu_City_55: -4886994335812117401
+      MapleStory_TileSet_Ulu_City_56: 4275395089977649515
+      MapleStory_TileSet_Ulu_City_57: 1571234573243219902
+      MapleStory_TileSet_Ulu_City_58: -2973617979090535254
+      MapleStory_TileSet_Ulu_City_59: -2075564273988376247
+      MapleStory_TileSet_Ulu_City_6: 3643884610493913377
+      MapleStory_TileSet_Ulu_City_7: -7398509823450046821
+      MapleStory_TileSet_Ulu_City_8: 1983622973041899708
+      MapleStory_TileSet_Ulu_City_9: -580027222058094054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
