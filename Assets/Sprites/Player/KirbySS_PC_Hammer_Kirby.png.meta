@@ -1,0 +1,4232 @@
+fileFormatVersion: 2
+guid: 16972615117cc804b861d028fb810dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6430780350132697596
+    second: KirbySS_PC_Hammer_Kirby_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 19
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1849
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40647c1e75741c6a0800000000000000
+      internalID: -6430780350132697596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1858
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9e6e0f98ab1b4680c3e1ce085464d
+      internalID: 1686059671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1859
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617312ae540bff4fbcf5a0f0263a09a
+      internalID: 1238207993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1859
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f870446652eef4980a0dd2d3d7f43c
+      internalID: -385837336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1858
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3dda023c2611643bce278e4946167e
+      internalID: 1543438765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1858
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d8d120f2f83e4e9ff0d4c29133aab
+      internalID: 1823040581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1858
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00386d6935b04ba4a91eacb62eef38ca
+      internalID: -1055358933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1858
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f188aaecdd63543aa6a995c1e990c5
+      internalID: 1381352409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1858
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ce13fc67fabb44a215384e8f9055e
+      internalID: -722637505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1858
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6843e01cc6544b47a7ab62930f7911e
+      internalID: -1113057555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1858
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1faa454c7709b479c40d51e6404cd9
+      internalID: 738755413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1858
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032bbbe2ca297d84784a1efe38267db9
+      internalID: 507365036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1858
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68258e4a8ca594280d41e72035c3e7
+      internalID: -1916110937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1858
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca792b7869bee42b8e18c90b5e92e7
+      internalID: 1498497804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1779
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae227461b6c7b4abfdd1b0951b293b
+      internalID: 1308335798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1782
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da2ab4f169ec448a3f94c3946a7d48
+      internalID: -1392544864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1782
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a03f4bcd45b841a3ba22f6486a89c
+      internalID: 1951187648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1779
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909aa393a82537e46810bec10dce9e5c
+      internalID: 75352737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Duck
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1782
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275a170fcc093b342bf99404bc300423
+      internalID: -130713593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Slide
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1781
+        width: 54
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2381dfa4fd16c41ac43de5a6c66397
+      internalID: -1774929953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1710
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c3e05ef745814095f30bfe70bef4b
+      internalID: -305873036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1710
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdea30cee7b63c4aad1eee853767bae
+      internalID: -871024853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1710
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adaff1daedc37749b9ead7c71732969
+      internalID: -2073265424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1710
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b297b5fb981324f901875e7ec56840
+      internalID: -511286004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1712
+        width: 47
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a24b6bc47c47d641b9f361215260698
+      internalID: -1162975619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1710
+        width: 40
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3bc9c0d3479294abcb16fd919ca3af
+      internalID: -843908834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1710
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930c6be08f3ca144afd8df075f4e661
+      internalID: 1143890016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1713
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169c6067c3408441947031efaad0b3e
+      internalID: 418548693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Dash_Stop
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1710
+        width: 16
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c430431a39fb4f86ba810e8894ccb
+      internalID: 1003960332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1639
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6df1b831c13543848c38c8f6ba631
+      internalID: 602647736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1622
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd141e54e35ff043bd4aa8122035f0d
+      internalID: 1919278673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1618
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a735ed61bcdf74e854468304aaca0c
+      internalID: -1006300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fall_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1641
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97f42e50e664b4d8687ea73f34df00
+      internalID: -484909167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fall_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1641
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e04f9bc14a9534abc9c8c903e4f675
+      internalID: 1478141269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fall_Land
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1641
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea632f14c01e3748b6995f5c0b3fdf2
+      internalID: -331878205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1637
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24030a52990eb1a4bad6126a9e92d4c4
+      internalID: -571187019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1637
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f51dfb73304141b77509b5b5b4cd9
+      internalID: -992796550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1637
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6fb98d86547c64c8f9b050b11ca2f3
+      internalID: 604774771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1599
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207503be0f3794d4489b272994763695
+      internalID: -834775193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1554
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321376168e75cb4da4675fc0b29fe27
+      internalID: -1227238912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1541
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c27c209e8182545a9cdaef44dfbdde
+      internalID: -954360499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1540
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478d47e146fc50469361d44425d19ea
+      internalID: 713040772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Tumble_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1589
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6501b685f03643965bff9517721db
+      internalID: -118215288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1540
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6b46afaa4479498a790c7a3bbaebb
+      internalID: 148527125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1540
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6c490e2c7e464ea1dfd4cede4ceb5
+      internalID: -2098564390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_Struggle_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1540
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699a13bb3655fc48af4fde74e1a46f0
+      internalID: -1659569233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_Struggle_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1540
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a3868b37f78c04daed926e17d597fb
+      internalID: -2059323932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_Puff_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1540
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721424be3f0d124d802288edce02d99
+      internalID: -1294275490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_Puff_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1540
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27948d8ac213d40a2b1636fbf8f4ee
+      internalID: 228767337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_Puff
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1545
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6151d711d237bf54ab028f805a8c9b53
+      internalID: -412342292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Guard_A1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1463
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195b1165925b8f47ab3d74139a16bdf
+      internalID: -1470118094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Guard_A2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1463
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007458447d9a1cb4e84d7770f25c70a5
+      internalID: 184504078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Guard_B1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1463
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0330ee88862f2d4a8127422d47b0711
+      internalID: -1014467461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Guard_B2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1463
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15d44293938774880f098aeb207acb
+      internalID: 1631888225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Climb_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1463
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26248e56cd6aa9e41944d03c8c7bff62
+      internalID: -1711634885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Climb_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1468
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993fa2cb03728540892fdb12c24a3c5
+      internalID: -242102781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Climb_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1467
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7789aa14ff27442a3e2b9230caef52
+      internalID: -1967656663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Climb_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1463
+        width: 25
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5e204be5c72848b782520ef042030
+      internalID: -1502914198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Warpstar_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1463
+        width: 34
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf20a01fb8b8004f9732df62b8f605c
+      internalID: 1983929779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Warpstar_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1463
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff57f62c8641d4ab1a7d34c39ff099
+      internalID: -1348500608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1415
+        width: 47
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54680ec407490e542b9fcd24f28a2cd3
+      internalID: 343982828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1415
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd2028c59c65c4ea64b81a395d535b
+      internalID: 1979002459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1415
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9015fbb8c362143b6fdf235e800776
+      internalID: 1475022741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1415
+        width: 47
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40bdde18a4e53419164d4012e31baa
+      internalID: 638791171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1415
+        width: 47
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fbd1bf45542e468d7627c2c5a0ac4
+      internalID: 1495058587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1415
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a158835ba67ea8e409dd57bf1cee5d5d
+      internalID: 1683153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1415
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f8cbf3bb7f8642a5b9f9ebe1d0dc2
+      internalID: 179184298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1415
+        width: 47
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e144517f2f484e907c2acf01271c8
+      internalID: -68788265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1343
+        width: 43
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6202d09a3bbd41a940f8f0f242bd1
+      internalID: -1562711469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1343
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696d07894cf4f94d92a395095286c55
+      internalID: -702207781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1343
+        width: 49
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4e88126ecc7a4e9b5af288737b4c0
+      internalID: 339539306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1343
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1dca28cacbfbe4c902c0510da726ea
+      internalID: 1679039201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1343
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737abcd408caa8f4a87da60e4f87c250
+      internalID: 1871376629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Ouch_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1343
+        width: 46
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb348b1a9985048ac1cf9abd5a2535
+      internalID: -1758868985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Joy_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1343
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106b434d58355647a8d6752ef8b37c6
+      internalID: 973058854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Joy_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1343
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb9f5e6e212b24dae074497e23c8fe
+      internalID: 2124557777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1166
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef86843dc266b2146b26c213e42cc60e
+      internalID: 107047466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1166
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a85e9759a2b44bb90973dbac5a399
+      internalID: -1123155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1166
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06b959f275b0d48b6139aae59d18c7
+      internalID: 881625698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1166
+        width: 22
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ddc252a4190641af1e11e1a590ec0
+      internalID: 2039766556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1166
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2c340f4f604c45884d1cb0aa9c7e8
+      internalID: 1332723607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1166
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64509d7df388549a7e848c51a515df
+      internalID: 75765745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1166
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f67da25deca540be5cbd138d84ab0
+      internalID: 777592287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1158
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb961c79829a9024b9a98bc5c143d978
+      internalID: -1200173995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1055
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d76cfddd4297c4dad08c519a0e8692
+      internalID: -1640784991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1055
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03201aca37033047a3519e6f1228ff5
+      internalID: -2018032511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1055
+        width: 59
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513ae42c8312934d8d0c0f6f60b5085
+      internalID: -1943623349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1055
+        width: 62
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f2bd5fab31034d80afe2f569adbfd
+      internalID: -468354087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1057
+        width: 65
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d640336ab7d3346a6f64fcbb71b3a4
+      internalID: -957053683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1057
+        width: 68
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6bfa3bd2b6f049be8317172ecc355
+      internalID: -935578810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1057
+        width: 71
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f6c5b8955ee44c9a6fdf3725f61e5
+      internalID: 1035257800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1057
+        width: 73
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0a390bb678224b9570875277f1b53
+      internalID: 1895994813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1064
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993a081d52551c4cbb441f4eec10516
+      internalID: -28207090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Miss_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 941
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2806ca32f13ddc4fbb2501396ebc9a9
+      internalID: -28118778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Miss_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 951
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b81c7c134aeb84aa47f4b521d3357d
+      internalID: 618121438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Miss_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 963
+        width: 42
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792cd9d195476045bae7ed7adbf1197
+      internalID: 908976656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSwing_Miss_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 963
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa566318b4630b44a73a85a6d58d2a4
+      internalID: 1948347578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 862
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6376114ec6f74e9a3da529f77ea5e
+      internalID: 722910050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 862
+        width: 42
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce861c0ee831db74cb4c70989dafb46a
+      internalID: -1286983129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 855
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940f629fb9c7a841b0acc57440e07b7
+      internalID: -985623268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 862
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512de85cd5cab641bda7aa0c0fd943c
+      internalID: -630401747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 862
+        width: 44
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ab2ff0e4a0a941b686ec6d9b90d20
+      internalID: -504114659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HFlip_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 862
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e33a5b9f83e9a4c9fd60e066484363
+      internalID: -40990202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_103
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 898
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359f13a54ebc2f47b1092503b3cf78d
+      internalID: -513269215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_104
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 880
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f0ab1fbe8cfb409b0a18cf331a936
+      internalID: -153182272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 861
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee18046d18748489b2b92f70a0b1b6
+      internalID: -2022326496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb315da24869b7499e1baf199e9fee1
+      internalID: 1831715976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 882
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84180ed097802354b812c73d20e133e0
+      internalID: -1090600036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 861
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a2fd4aa683da4d98992d1fcecb466
+      internalID: 531394146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 845
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015929f2d8c255f4e83d9329fadfed29
+      internalID: -816494492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 791
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3eb1d300e14704b9cede3968c06e8c
+      internalID: 1917578735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 791
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293811042ce7d984f927a5ae2a2ddcec
+      internalID: 674147849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 791
+        width: 47
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76feafec562a6ff43839cedd43a2ad8f
+      internalID: -1158886731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 791
+        width: 49
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891bd9671cdcd14797094bade9c3873
+      internalID: 15019426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 791
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c971dbbee27834ab44db56d7864817
+      internalID: 437226963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 791
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049a6efbfa126b489c251ead5edb628
+      internalID: 1047388531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 791
+        width: 39
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831fa48dd1209b4599d0a06beff43ca
+      internalID: 797674640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 791
+        width: 50
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb83305e0043104689262bb561e0a40
+      internalID: 1626085642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 791
+        width: 35
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45eb75463d21d742b5c498b0321b165
+      internalID: 1141565847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_Stop_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 571
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aff3be819a9651429d2245c6e68d46d
+      internalID: -512231968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HSpin_Stop_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 571
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123501b4026e7a47aacf6c355b1951d
+      internalID: 1194288823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 523
+        width: 42
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac9c5247407ad46ad4173fb78d00e5
+      internalID: -1343960459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 516
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3062f3cbcb7fd64db26b59837843705
+      internalID: 259348022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 513
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de261594001c16f45be17a205414b692
+      internalID: 221889157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 516
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61e229fc856fa24db32ee7cd390b0d5
+      internalID: 1520895646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 523
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d81c289b8ecc14385b7d63405867b0
+      internalID: -1478533173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HThrow_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 523
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e322899a60f741d46ba701e433eff9d0
+      internalID: 733893677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerThrow_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 525
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0db5441f658045908e320e1802fd1
+      internalID: 1428107523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerThrow_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 525
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a33776e1462ad54b9bf44b5be222251
+      internalID: 1821576528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerThrow_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 525
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d480cb58e73f49b1eb32ab7f8e373
+      internalID: -1341454926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerThrow_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 525
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68538c5b9c957b64eb668188bea8f489
+      internalID: 1875311434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerThrow_Fast
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 524
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff54277f0afd194d941f0a7d61785e0
+      internalID: 113462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 442
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a2b31dfb7fddf41aa09efb66397738
+      internalID: -1142933613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 442
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4ae95117e51e48b22b0b7262749c0
+      internalID: 1326892690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 442
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1259f95522b2446b8ae0167da5d6b1
+      internalID: -1263976060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 442
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ae1a54f2e1194591b86b96c3731e7
+      internalID: -625380207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 442
+        width: 46
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0dcadf23cec9649b2c9426615b406a
+      internalID: 1542676361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 433
+        width: 45
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b14bb5460a0ad4e95756667ebe1179
+      internalID: 1679146760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 425
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03508ac0402f78444a222c139c2a9ff1
+      internalID: 1138669449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 420
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6af76812d998c4c87660b36669172e
+      internalID: -714060726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 345
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1663d422abcc14982de2af97430a90
+      internalID: -2131602777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 346
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574eff940c8ef148b041275e3796808
+      internalID: 1894945383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48941dc81f8e31e49bf9d271e8226ed7
+      internalID: -45460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 359
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ae5590957d844cb3bfe15507502e8
+      internalID: 2011075515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 368
+        width: 46
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b642d2a18dc64886b014327e43767
+      internalID: -1384666241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 369
+        width: 45
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061382030f41cc4293d27720eddaeb8
+      internalID: -598614873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 369
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49eb6eb63f3c74c9c825185bb7eaf9
+      internalID: -1396492931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_GSwing_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 368
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871002be38e31bb4784a9c59054d5f84
+      internalID: -217407576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 123
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64813723c2d774fa555981472ac1c3
+      internalID: -501025394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 126
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6ef17e4b1273418c981bdbc44409a
+      internalID: -664417937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 123
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd9303d02d3b174d84e50535732fb2e
+      internalID: -371365372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 126
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ad44f761033741a1ac4a4da124a65
+      internalID: 1885966188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_152
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71059360b1fa67747a3bfc9d6c6b486b
+      internalID: 1705099053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 126
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e2a9e9dde4404ea4ae13c95b903a2
+      internalID: -651000057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 126
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda2f4f15c6ac3498bdc9d5d30fb4f0
+      internalID: 266064551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 126
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3227fd2e1f2ed64d8d259716ab0b771
+      internalID: -763957731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_156
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 118
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2cc3e470b2b4e47b4e34e125a6a50a
+      internalID: -248076364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_157
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 118
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514efa40e3a68974cb0a8d8c1ffb09c6
+      internalID: -1482230494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 82
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb11e4ed02cdbc42be830c9dfcad3b4
+      internalID: 946483689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_159
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 82
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7cd267a8750a46a1bd8bf5ae53da2
+      internalID: -1733158191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 89
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a931f8108fb34428d6305b9cc01fad
+      internalID: 1172723926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_161
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 89
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd793c55003294eb4bc18bd08f18e9
+      internalID: -1853158305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 89
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d4568192b95849a39a2044a8dec8c
+      internalID: -1976029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_163
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 89
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a50e1a5e9d8214993f9b169e5781b7
+      internalID: 1088395249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_164
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 89
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc3ddb0d0b17c4088fa5824c05350f
+      internalID: 643424344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 89
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317e587b80d5f844a95903e0ef4002b
+      internalID: -803984901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_166
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 89
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab3c7f2aa358c4a80c4f023c8d51c6
+      internalID: -629460035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_167
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 89
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0d7b2c135f1843891c526dd4d52e0
+      internalID: 1926305718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_168
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a1c5aa36929f47b32bee403742bd0
+      internalID: 1796995868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 55
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6f10a12dea6241b455f3b50664db9
+      internalID: 1741051995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_170
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 55
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f7447080374f4ab9cd8c63650d412
+      internalID: 1304218341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_171
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 55
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7cfbc5ad2c4a34d8134185b5994f9c
+      internalID: -174654224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_172
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 55
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a14c91b2a03a46be4eeb2950df6f2
+      internalID: 197828812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_173
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 55
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38739fc9e1d48cf4db8c486f9f4e25f2
+      internalID: -2061802239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_174
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 55
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803643089bbba664eb897ca26ccabb5e
+      internalID: -848729087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_175
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 55
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46306e93ed9c54d8c78f795d954f0b
+      internalID: -1694065465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KirbySS_PC_Hammer_Kirby_176
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 55
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd7fb743f16b0408b83a06167f8da9
+      internalID: -1182076489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 21b94dd0b756af34b82f0c969ac23ac8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HammerThrow_1: 1428107523
+      HammerThrow_2: 1821576528
+      HammerThrow_3: -1341454926
+      HammerThrow_4: 1875311434
+      HammerThrow_Fast: 113462489
+      KirbySS_PC_Hammer_Kirby_0: -6430780350132697596
+      KirbySS_PC_Hammer_Kirby_1: 1686059671
+      KirbySS_PC_Hammer_Kirby_10: 738755413
+      KirbySS_PC_Hammer_Kirby_103: -513269215
+      KirbySS_PC_Hammer_Kirby_104: -153182272
+      KirbySS_PC_Hammer_Kirby_105: -2022326496
+      KirbySS_PC_Hammer_Kirby_106: 1831715976
+      KirbySS_PC_Hammer_Kirby_107: -1090600036
+      KirbySS_PC_Hammer_Kirby_108: 531394146
+      KirbySS_PC_Hammer_Kirby_109: -816494492
+      KirbySS_PC_Hammer_Kirby_11: 507365036
+      KirbySS_PC_Hammer_Kirby_12: -1916110937
+      KirbySS_PC_Hammer_Kirby_13: 1498497804
+      KirbySS_PC_Hammer_Kirby_14: 1308335798
+      KirbySS_PC_Hammer_Kirby_148: -501025394
+      KirbySS_PC_Hammer_Kirby_149: -664417937
+      KirbySS_PC_Hammer_Kirby_150: -371365372
+      KirbySS_PC_Hammer_Kirby_151: 1885966188
+      KirbySS_PC_Hammer_Kirby_152: 1705099053
+      KirbySS_PC_Hammer_Kirby_153: -651000057
+      KirbySS_PC_Hammer_Kirby_154: 266064551
+      KirbySS_PC_Hammer_Kirby_155: -763957731
+      KirbySS_PC_Hammer_Kirby_156: -248076364
+      KirbySS_PC_Hammer_Kirby_157: -1482230494
+      KirbySS_PC_Hammer_Kirby_158: 946483689
+      KirbySS_PC_Hammer_Kirby_159: -1733158191
+      KirbySS_PC_Hammer_Kirby_160: 1172723926
+      KirbySS_PC_Hammer_Kirby_161: -1853158305
+      KirbySS_PC_Hammer_Kirby_162: -1976029952
+      KirbySS_PC_Hammer_Kirby_163: 1088395249
+      KirbySS_PC_Hammer_Kirby_164: 643424344
+      KirbySS_PC_Hammer_Kirby_165: -803984901
+      KirbySS_PC_Hammer_Kirby_166: -629460035
+      KirbySS_PC_Hammer_Kirby_167: 1926305718
+      KirbySS_PC_Hammer_Kirby_168: 1796995868
+      KirbySS_PC_Hammer_Kirby_169: 1741051995
+      KirbySS_PC_Hammer_Kirby_17: 75352737
+      KirbySS_PC_Hammer_Kirby_170: 1304218341
+      KirbySS_PC_Hammer_Kirby_171: -174654224
+      KirbySS_PC_Hammer_Kirby_172: 197828812
+      KirbySS_PC_Hammer_Kirby_173: -2061802239
+      KirbySS_PC_Hammer_Kirby_174: -848729087
+      KirbySS_PC_Hammer_Kirby_175: -1694065465
+      KirbySS_PC_Hammer_Kirby_176: -1182076489
+      KirbySS_PC_Hammer_Kirby_2: 1238207993
+      KirbySS_PC_Hammer_Kirby_3: -385837336
+      KirbySS_PC_Hammer_Kirby_4: 1543438765
+      KirbySS_PC_Hammer_Kirby_5: 1823040581
+      KirbySS_PC_Hammer_Kirby_6: -1055358933
+      KirbySS_PC_Hammer_Kirby_7: 1381352409
+      KirbySS_PC_Hammer_Kirby_8: -722637505
+      KirbySS_PC_Hammer_Kirby_9: -1113057555
+      Kirby_Climb_1: -1711634885
+      Kirby_Climb_2: -242102781
+      Kirby_Climb_3: -1967656663
+      Kirby_Climb_4: -1502914198
+      Kirby_Dash_1: -1162975619
+      Kirby_Dash_2: -843908834
+      Kirby_Dash_3: 1143890016
+      Kirby_Dash_4: 418548693
+      Kirby_Dash_Stop: 1003960332
+      Kirby_Duck: -130713593
+      Kirby_Fall_1: -484909167
+      Kirby_Fall_2: 1478141269
+      Kirby_Fall_Land: -331878205
+      Kirby_Float_1: 148527125
+      Kirby_Float_2: -2098564390
+      Kirby_Float_Puff: -412342292
+      Kirby_Float_Puff_1: -1294275490
+      Kirby_Float_Puff_2: 228767337
+      Kirby_Float_Struggle_1: -1659569233
+      Kirby_Float_Struggle_2: -2059323932
+      Kirby_GSwing_1: -1142933613
+      Kirby_GSwing_10: 1894945383
+      Kirby_GSwing_11: -45460778
+      Kirby_GSwing_12: 2011075515
+      Kirby_GSwing_13: -1384666241
+      Kirby_GSwing_14: -598614873
+      Kirby_GSwing_15: -1396492931
+      Kirby_GSwing_16: -217407576
+      Kirby_GSwing_2: 1326892690
+      Kirby_GSwing_3: -1263976060
+      Kirby_GSwing_4: -625380207
+      Kirby_GSwing_5: 1542676361
+      Kirby_GSwing_6: 1679146760
+      Kirby_GSwing_7: 1138669449
+      Kirby_GSwing_8: -714060726
+      Kirby_GSwing_9: -2131602777
+      Kirby_Guard_A1: -1470118094
+      Kirby_Guard_A2: 184504078
+      Kirby_Guard_B1: -1014467461
+      Kirby_Guard_B2: 1631888225
+      Kirby_HFlip_1: 722910050
+      Kirby_HFlip_2: -1286983129
+      Kirby_HFlip_3: -985623268
+      Kirby_HFlip_4: -630401747
+      Kirby_HFlip_5: -504114659
+      Kirby_HFlip_6: -40990202
+      Kirby_HSpin_1: 1917578735
+      Kirby_HSpin_2: 674147849
+      Kirby_HSpin_3: -1158886731
+      Kirby_HSpin_4: 15019426
+      Kirby_HSpin_5: 437226963
+      Kirby_HSpin_6: 1047388531
+      Kirby_HSpin_7: 797674640
+      Kirby_HSpin_8: 1626085642
+      Kirby_HSpin_9: 1141565847
+      Kirby_HSpin_Stop_1: -512231968
+      Kirby_HSpin_Stop_2: 1194288823
+      Kirby_HSwing_1: 107047466
+      Kirby_HSwing_2: -1123155
+      Kirby_HSwing_3: 881625698
+      Kirby_HSwing_4: 2039766556
+      Kirby_HSwing_5: 1332723607
+      Kirby_HSwing_6: 75765745
+      Kirby_HSwing_7: 777592287
+      Kirby_HSwing_8: -1200173995
+      Kirby_HSwing_Hit_1: -1640784991
+      Kirby_HSwing_Hit_2: -2018032511
+      Kirby_HSwing_Hit_3: -1943623349
+      Kirby_HSwing_Hit_4: -468354087
+      Kirby_HSwing_Hit_5: -957053683
+      Kirby_HSwing_Hit_6: -935578810
+      Kirby_HSwing_Hit_7: 1035257800
+      Kirby_HSwing_Hit_8: 1895994813
+      Kirby_HSwing_Hit_9: -28207090
+      Kirby_HSwing_Miss_1: -28118778
+      Kirby_HSwing_Miss_2: 618121438
+      Kirby_HSwing_Miss_3: 908976656
+      Kirby_HSwing_Miss_4: 1948347578
+      Kirby_HThrow_1: -1343960459
+      Kirby_HThrow_2: 259348022
+      Kirby_HThrow_3: 221889157
+      Kirby_HThrow_4: 1520895646
+      Kirby_HThrow_5: -1478533173
+      Kirby_HThrow_6: 733893677
+      Kirby_Idle_1: -1392544864
+      Kirby_Idle_2: 1951187648
+      Kirby_Joy_1: 973058854
+      Kirby_Joy_2: 2124557777
+      Kirby_Jump_1: 602647736
+      Kirby_Jump_2: 1919278673
+      Kirby_Jump_3: -1006300170
+      Kirby_Ouch_1: -1562711469
+      Kirby_Ouch_2: -702207781
+      Kirby_Ouch_3: 339539306
+      Kirby_Ouch_4: 1679039201
+      Kirby_Ouch_5: 1871376629
+      Kirby_Ouch_6: -1758868985
+      Kirby_Slide: -1774929953
+      Kirby_Spin_1: 343982828
+      Kirby_Spin_2: 1979002459
+      Kirby_Spin_3: 1475022741
+      Kirby_Spin_4: 638791171
+      Kirby_Spin_5: 1495058587
+      Kirby_Spin_6: 1683153513
+      Kirby_Spin_7: 179184298
+      Kirby_Spin_8: -68788265
+      Kirby_Tumble_1: -992796550
+      Kirby_Tumble_2: 604774771
+      Kirby_Tumble_3: -834775193
+      Kirby_Tumble_4: -1227238912
+      Kirby_Tumble_5: -954360499
+      Kirby_Tumble_6: 713040772
+      Kirby_Tumble_7: -118215288
+      Kirby_Tumble_8: -571187019
+      Kirby_Walk_: -511286004
+      Kirby_Walk_1: -305873036
+      Kirby_Walk_2: -871024853
+      Kirby_Walk_3: -2073265424
+      Kirby_Warpstar_1: 1983929779
+      Kirby_Warpstar_2: -1348500608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
