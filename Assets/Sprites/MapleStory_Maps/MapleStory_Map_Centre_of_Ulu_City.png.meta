@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4c5424c9ac20dd441bd930c1cf72f451
+guid: a65059020b6af424789379cb7d4b221e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3141033224743486209
-    second: KirbySS_Level_Peanut_Plains_0
+      213: -4520416825990535924
+    second: MapleStory_Map_Centre_of_Ulu_City_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,14 +46,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
-  spriteExtrude: 1
+  spriteMode: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -139,133 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level_Peanut_Plains_1-2
+      name: MapleStory_Map_Centre_of_Ulu_City_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 759
-        width: 2493
-        height: 169
+        x: 0
+        y: 0
+        width: 1000
+        height: 592
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10309847311379b20800000000000000
-      internalID: 3141033224743486209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_Peanut_Plains_1-5
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 271
-        width: 2016
-        height: 480
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a9557a386f8e3940a5600d8feec05ec
-      internalID: 1145329342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_Peanut_Plains_1-3
-      rect:
-        serializedVersion: 2
-        x: 2644
-        y: 88
-        width: 287
-        height: 839
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7857e23d0424a9a4c9de6935fbcfa558
-      internalID: 1254270808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_Peanut_Plains_1-1
-      rect:
-        serializedVersion: 2
-        x: 2374
-        y: 89
-        width: 245
-        height: 522
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffcccc066c2e6d84eb4e53151ca794d4
-      internalID: 877513346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_Peanut_Plains_1-4
-      rect:
-        serializedVersion: 2
-        x: 2062
-        y: 369
-        width: 248
-        height: 46
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7029adcddfbf734419bbf13573301534
-      internalID: 350048708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_BlackSpace
-      rect:
-        serializedVersion: 2
-        x: 2153
-        y: 204
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60c9a4fbc05977b4e98c4df4e79d68bf
-      internalID: -191841142
+      spriteID: c05a222d8d04441c0800000000000000
+      internalID: -4520416825990535924
       vertices: []
       indices: 
       edges: []
@@ -274,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9adad9670a58b5949b567025fe0b6cc5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -284,12 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Level_BlackSpace: -191841142
-      Level_Peanut_Plains_1-1: 877513346
-      Level_Peanut_Plains_1-2: 3141033224743486209
-      Level_Peanut_Plains_1-3: 1254270808
-      Level_Peanut_Plains_1-4: 350048708
-      Level_Peanut_Plains_1-5: 1145329342
+      MapleStory_Map_Centre_of_Ulu_City_0: -4520416825990535924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

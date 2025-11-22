@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 60a8af01757592b4997b435999cf0a39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1149972564017309860
+    second: MapleStory_MouseCursors_TPBG_0
+  - first:
+      213: 2573781053829897329
+    second: MapleStory_MouseCursors_TPBG_1
+  - first:
+      213: 1457787523339097032
+    second: MapleStory_MouseCursors_TPBG_2
+  - first:
+      213: -5799403535437928534
+    second: MapleStory_MouseCursors_TPBG_3
+  - first:
+      213: 4828407873501378460
+    second: MapleStory_MouseCursors_TPBG_4
+  - first:
+      213: 3598070542251553938
+    second: MapleStory_MouseCursors_TPBG_5
+  - first:
+      213: 7737049248042655926
+    second: MapleStory_MouseCursors_TPBG_6
+  - first:
+      213: 4250556844022601485
+    second: MapleStory_MouseCursors_TPBG_7
+  - first:
+      213: 7835266459341484975
+    second: MapleStory_MouseCursors_TPBG_8
+  - first:
+      213: -7612816542677294530
+    second: MapleStory_MouseCursors_TPBG_9
+  - first:
+      213: 5024836530372180311
+    second: MapleStory_MouseCursors_TPBG_10
+  - first:
+      213: -2677836285016961298
+    second: MapleStory_MouseCursors_TPBG_11
+  - first:
+      213: -5872482272726791810
+    second: MapleStory_MouseCursors_TPBG_12
+  - first:
+      213: -7620170044221674164
+    second: MapleStory_MouseCursors_TPBG_13
+  - first:
+      213: -3708488146860360453
+    second: MapleStory_MouseCursors_TPBG_14
+  - first:
+      213: 3923570366579743597
+    second: MapleStory_MouseCursors_TPBG_15
+  - first:
+      213: -5535484552681909377
+    second: MapleStory_MouseCursors_TPBG_16
+  - first:
+      213: 6335909516644611734
+    second: MapleStory_MouseCursors_TPBG_17
+  - first:
+      213: 1266239169762924025
+    second: MapleStory_MouseCursors_TPBG_18
+  - first:
+      213: -7145994015719038907
+    second: MapleStory_MouseCursors_TPBG_19
+  - first:
+      213: -4038144603082555126
+    second: MapleStory_MouseCursors_TPBG_20
+  - first:
+      213: -1365776151001785321
+    second: MapleStory_MouseCursors_TPBG_21
+  - first:
+      213: -6708214234529536475
+    second: MapleStory_MouseCursors_TPBG_22
+  - first:
+      213: 4983350202694394303
+    second: MapleStory_MouseCursors_TPBG_23
+  - first:
+      213: -8117191401344789864
+    second: MapleStory_MouseCursors_TPBG_24
+  - first:
+      213: 5913901060010745877
+    second: MapleStory_MouseCursors_TPBG_25
+  - first:
+      213: -4148633408242515810
+    second: MapleStory_MouseCursors_TPBG_26
+  - first:
+      213: -1264760119043128016
+    second: MapleStory_MouseCursors_TPBG_27
+  - first:
+      213: -3439953101274622587
+    second: MapleStory_MouseCursors_TPBG_28
+  - first:
+      213: -816393557310638217
+    second: MapleStory_MouseCursors_TPBG_29
+  - first:
+      213: -8385087443074355334
+    second: MapleStory_MouseCursors_TPBG_30
+  - first:
+      213: 4471971419840978583
+    second: MapleStory_MouseCursors_TPBG_31
+  - first:
+      213: 2065003733109849177
+    second: MapleStory_MouseCursors_TPBG_32
+  - first:
+      213: 4127646585035968938
+    second: MapleStory_MouseCursors_TPBG_33
+  - first:
+      213: 5544126116867462906
+    second: MapleStory_MouseCursors_TPBG_34
+  - first:
+      213: -7238116628887021869
+    second: MapleStory_MouseCursors_TPBG_35
+  - first:
+      213: -2392543843989839948
+    second: MapleStory_MouseCursors_TPBG_36
+  - first:
+      213: 5163708856791557149
+    second: MapleStory_MouseCursors_TPBG_37
+  - first:
+      213: 5941228235789474876
+    second: MapleStory_MouseCursors_TPBG_38
+  - first:
+      213: 9197570474398002319
+    second: MapleStory_MouseCursors_TPBG_39
+  - first:
+      213: 2798161070288944441
+    second: MapleStory_MouseCursors_TPBG_40
+  - first:
+      213: 5056577604456041019
+    second: MapleStory_MouseCursors_TPBG_41
+  - first:
+      213: 2924616593244365719
+    second: MapleStory_MouseCursors_TPBG_42
+  - first:
+      213: 4007876957530758730
+    second: MapleStory_MouseCursors_TPBG_43
+  - first:
+      213: 2723981860696938500
+    second: MapleStory_MouseCursors_TPBG_44
+  - first:
+      213: 3842273237386539155
+    second: MapleStory_MouseCursors_TPBG_45
+  - first:
+      213: 2338742567516803109
+    second: MapleStory_MouseCursors_TPBG_46
+  - first:
+      213: -5501068129491319365
+    second: MapleStory_MouseCursors_TPBG_47
+  - first:
+      213: 841813186217485775
+    second: MapleStory_MouseCursors_TPBG_48
+  - first:
+      213: -9022775617875355260
+    second: MapleStory_MouseCursors_TPBG_49
+  - first:
+      213: 8843604371966766820
+    second: MapleStory_MouseCursors_TPBG_50
+  - first:
+      213: -1204265652660512983
+    second: MapleStory_MouseCursors_TPBG_51
+  - first:
+      213: -4922552465188370493
+    second: MapleStory_MouseCursors_TPBG_52
+  - first:
+      213: -6496335055233676052
+    second: MapleStory_MouseCursors_TPBG_53
+  - first:
+      213: -7763150725024722446
+    second: MapleStory_MouseCursors_TPBG_54
+  - first:
+      213: -4137542788057749455
+    second: MapleStory_MouseCursors_TPBG_55
+  - first:
+      213: 250336427276008622
+    second: MapleStory_MouseCursors_TPBG_56
+  - first:
+      213: 1959432569284761742
+    second: MapleStory_MouseCursors_TPBG_57
+  - first:
+      213: 3909052894245878169
+    second: MapleStory_MouseCursors_TPBG_58
+  - first:
+      213: 3092453806515498250
+    second: MapleStory_MouseCursors_TPBG_59
+  - first:
+      213: -5097584737633443109
+    second: MapleStory_MouseCursors_TPBG_60
+  - first:
+      213: 1044925696969713811
+    second: MapleStory_MouseCursors_TPBG_61
+  - first:
+      213: 522507907611372658
+    second: MapleStory_MouseCursors_TPBG_62
+  - first:
+      213: 3853820655935017350
+    second: MapleStory_MouseCursors_TPBG_63
+  - first:
+      213: -2063887859097526269
+    second: MapleStory_MouseCursors_TPBG_64
+  - first:
+      213: 1958047774794887354
+    second: MapleStory_MouseCursors_TPBG_65
+  - first:
+      213: -2876575961062401543
+    second: MapleStory_MouseCursors_TPBG_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579d4cbb0a7a00f0800000000000000
+      internalID: -1149972564017309860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 351
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c59236b38e7b320800000000000000
+      internalID: 2573781053829897329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 351
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39f9e570a1b3410800000000000000
+      internalID: 1457787523339097032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 351
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e3190631648fa0800000000000000
+      internalID: -5799403535437928534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 313
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97bfb20163f10340800000000000000
+      internalID: 4828407873501378460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 313
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29473b3481aeee130800000000000000
+      internalID: 3598070542251553938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 313
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b029476c458f5b60800000000000000
+      internalID: 7737049248042655926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 313
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079291ede20dfa30800000000000000
+      internalID: 4250556844022601485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3f49de4557cbc60800000000000000
+      internalID: 7835266459341484975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 278
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a08950b7d95690800000000000000
+      internalID: -7612816542677294530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 278
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7597d3f933ecbb540800000000000000
+      internalID: 5024836530372180311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 278
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee89e8261a66dad0800000000000000
+      internalID: -2677836285016961298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 278
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7947589c70c08ea0800000000000000
+      internalID: -5872482272726791810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 278
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d281ad7b7bf3690800000000000000
+      internalID: -7620170044221674164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 278
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc34a8cdadc88cc0800000000000000
+      internalID: -3708488146860360453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739bb9a0220e23b0800000000000000
+      internalID: -5535484552681909377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018a95e0e0a5f7c0800000000000000
+      internalID: -4038144603082555126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 232
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c96dca3d9cb0de0800000000000000
+      internalID: -1365776151001785321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e5a102b2a7e2a0800000000000000
+      internalID: -6708214234529536475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 187
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb168fe3b9a682540800000000000000
+      internalID: 4983350202694394303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 187
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5102fbe4ea5621250800000000000000
+      internalID: 5913901060010745877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 187
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d58a41e4d240d0800000000000000
+      internalID: -3439953101274622587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e12551052af0e30800000000000000
+      internalID: 4471971419840978583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15c6b23b8584930800000000000000
+      internalID: 4127646585035968938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d9d94451b0fc40800000000000000
+      internalID: 5544126116867462906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65754764b0d8b90800000000000000
+      internalID: -7238116628887021869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 151
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf1075dc0afbced0800000000000000
+      internalID: -2392543843989839948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146994c8dd29a740800000000000000
+      internalID: 5163708856791557149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 151
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c90cb3a9b737250800000000000000
+      internalID: 5941228235789474876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 151
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2d1b9d9554af70800000000000000
+      internalID: 9197570474398002319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d36ea0ba015d620800000000000000
+      internalID: 2798161070288944441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4cc45a829c2640800000000000000
+      internalID: 5056577604456041019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 97
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932b88db43569820800000000000000
+      internalID: 2924616593244365719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 97
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1815bbd6de9730800000000000000
+      internalID: 4007876957530758730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 52
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d27de1178dc520800000000000000
+      internalID: 2723981860696938500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3903a64f62f725530800000000000000
+      internalID: 3842273237386539155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb58270aea748a3b0800000000000000
+      internalID: -5501068129491319365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 52
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489db785169a8c280800000000000000
+      internalID: -9022775617875355260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 52
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92757f5f4c6994fe0800000000000000
+      internalID: -1204265652660512983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ae889262508e00800000000000000
+      internalID: 1044925696969713811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 10
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c22817c22504700800000000000000
+      internalID: 522507907611372658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681d119d7758b7530800000000000000
+      internalID: 3853820655935017350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30020465de89b53e0800000000000000
+      internalID: -2063887859097526269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 10
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b4e5b3126c2b10800000000000000
+      internalID: 1958047774794887354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapleStory_MouseCursors_TPBG_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9927777695418d0800000000000000
+      internalID: -2876575961062401543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5372d3696571f8a4a965170f243b8158
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MapleStory_MouseCursors_TPBG_0: -1149972564017309860
+      MapleStory_MouseCursors_TPBG_1: 2573781053829897329
+      MapleStory_MouseCursors_TPBG_10: 5024836530372180311
+      MapleStory_MouseCursors_TPBG_11: -2677836285016961298
+      MapleStory_MouseCursors_TPBG_12: -5872482272726791810
+      MapleStory_MouseCursors_TPBG_13: -7620170044221674164
+      MapleStory_MouseCursors_TPBG_14: -3708488146860360453
+      MapleStory_MouseCursors_TPBG_15: 3923570366579743597
+      MapleStory_MouseCursors_TPBG_16: -5535484552681909377
+      MapleStory_MouseCursors_TPBG_17: 6335909516644611734
+      MapleStory_MouseCursors_TPBG_18: 1266239169762924025
+      MapleStory_MouseCursors_TPBG_19: -7145994015719038907
+      MapleStory_MouseCursors_TPBG_2: 1457787523339097032
+      MapleStory_MouseCursors_TPBG_20: -4038144603082555126
+      MapleStory_MouseCursors_TPBG_21: -1365776151001785321
+      MapleStory_MouseCursors_TPBG_22: -6708214234529536475
+      MapleStory_MouseCursors_TPBG_23: 4983350202694394303
+      MapleStory_MouseCursors_TPBG_24: -8117191401344789864
+      MapleStory_MouseCursors_TPBG_25: 5913901060010745877
+      MapleStory_MouseCursors_TPBG_26: -4148633408242515810
+      MapleStory_MouseCursors_TPBG_27: -1264760119043128016
+      MapleStory_MouseCursors_TPBG_28: -3439953101274622587
+      MapleStory_MouseCursors_TPBG_29: -816393557310638217
+      MapleStory_MouseCursors_TPBG_3: -5799403535437928534
+      MapleStory_MouseCursors_TPBG_30: -8385087443074355334
+      MapleStory_MouseCursors_TPBG_31: 4471971419840978583
+      MapleStory_MouseCursors_TPBG_32: 2065003733109849177
+      MapleStory_MouseCursors_TPBG_33: 4127646585035968938
+      MapleStory_MouseCursors_TPBG_34: 5544126116867462906
+      MapleStory_MouseCursors_TPBG_35: -7238116628887021869
+      MapleStory_MouseCursors_TPBG_36: -2392543843989839948
+      MapleStory_MouseCursors_TPBG_37: 5163708856791557149
+      MapleStory_MouseCursors_TPBG_38: 5941228235789474876
+      MapleStory_MouseCursors_TPBG_39: 9197570474398002319
+      MapleStory_MouseCursors_TPBG_4: 4828407873501378460
+      MapleStory_MouseCursors_TPBG_40: 2798161070288944441
+      MapleStory_MouseCursors_TPBG_41: 5056577604456041019
+      MapleStory_MouseCursors_TPBG_42: 2924616593244365719
+      MapleStory_MouseCursors_TPBG_43: 4007876957530758730
+      MapleStory_MouseCursors_TPBG_44: 2723981860696938500
+      MapleStory_MouseCursors_TPBG_45: 3842273237386539155
+      MapleStory_MouseCursors_TPBG_46: 2338742567516803109
+      MapleStory_MouseCursors_TPBG_47: -5501068129491319365
+      MapleStory_MouseCursors_TPBG_48: 841813186217485775
+      MapleStory_MouseCursors_TPBG_49: -9022775617875355260
+      MapleStory_MouseCursors_TPBG_5: 3598070542251553938
+      MapleStory_MouseCursors_TPBG_50: 8843604371966766820
+      MapleStory_MouseCursors_TPBG_51: -1204265652660512983
+      MapleStory_MouseCursors_TPBG_52: -4922552465188370493
+      MapleStory_MouseCursors_TPBG_53: -6496335055233676052
+      MapleStory_MouseCursors_TPBG_54: -7763150725024722446
+      MapleStory_MouseCursors_TPBG_55: -4137542788057749455
+      MapleStory_MouseCursors_TPBG_56: 250336427276008622
+      MapleStory_MouseCursors_TPBG_57: 1959432569284761742
+      MapleStory_MouseCursors_TPBG_58: 3909052894245878169
+      MapleStory_MouseCursors_TPBG_59: 3092453806515498250
+      MapleStory_MouseCursors_TPBG_6: 7737049248042655926
+      MapleStory_MouseCursors_TPBG_60: -5097584737633443109
+      MapleStory_MouseCursors_TPBG_61: 1044925696969713811
+      MapleStory_MouseCursors_TPBG_62: 522507907611372658
+      MapleStory_MouseCursors_TPBG_63: 3853820655935017350
+      MapleStory_MouseCursors_TPBG_64: -2063887859097526269
+      MapleStory_MouseCursors_TPBG_65: 1958047774794887354
+      MapleStory_MouseCursors_TPBG_66: -2876575961062401543
+      MapleStory_MouseCursors_TPBG_7: 4250556844022601485
+      MapleStory_MouseCursors_TPBG_8: 7835266459341484975
+      MapleStory_MouseCursors_TPBG_9: -7612816542677294530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
