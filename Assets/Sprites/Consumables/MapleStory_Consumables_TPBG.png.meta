@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: dbaa3c8a5e72ec74bb0903feab642b88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 918492973373193429
+    second: MapleStory_Consumables_TPBG_0
+  - first:
+      213: 4648065322445251866
+    second: MapleStory_Consumables_TPBG_1
+  - first:
+      213: 3023567953106642360
+    second: MapleStory_Consumables_TPBG_2
+  - first:
+      213: -8006978470027388336
+    second: MapleStory_Consumables_TPBG_3
+  - first:
+      213: -1042231613863266929
+    second: MapleStory_Consumables_TPBG_4
+  - first:
+      213: -4411701590249623535
+    second: MapleStory_Consumables_TPBG_5
+  - first:
+      213: -5392020827520056978
+    second: MapleStory_Consumables_TPBG_6
+  - first:
+      213: -6727855141060852031
+    second: MapleStory_Consumables_TPBG_7
+  - first:
+      213: 788742327297044634
+    second: MapleStory_Consumables_TPBG_8
+  - first:
+      213: -1956565887327846748
+    second: MapleStory_Consumables_TPBG_9
+  - first:
+      213: 550332306407085718
+    second: MapleStory_Consumables_TPBG_10
+  - first:
+      213: 487954709361212396
+    second: MapleStory_Consumables_TPBG_11
+  - first:
+      213: 4179592112742334187
+    second: MapleStory_Consumables_TPBG_12
+  - first:
+      213: -1889200443201364882
+    second: MapleStory_Consumables_TPBG_13
+  - first:
+      213: 6562415084196796407
+    second: MapleStory_Consumables_TPBG_14
+  - first:
+      213: -5620523070182736140
+    second: MapleStory_Consumables_TPBG_15
+  - first:
+      213: 635654133363128897
+    second: MapleStory_Consumables_TPBG_16
+  - first:
+      213: -4597626975234008123
+    second: MapleStory_Consumables_TPBG_17
+  - first:
+      213: 6956247823334816016
+    second: MapleStory_Consumables_TPBG_18
+  - first:
+      213: -5550588180930227551
+    second: MapleStory_Consumables_TPBG_19
+  - first:
+      213: -2322733128456403529
+    second: MapleStory_Consumables_TPBG_20
+  - first:
+      213: -866913882327539546
+    second: MapleStory_Consumables_TPBG_21
+  - first:
+      213: -6904221528074491998
+    second: MapleStory_Consumables_TPBG_22
+  - first:
+      213: 2796264330388348790
+    second: MapleStory_Consumables_TPBG_23
+  - first:
+      213: 364084788886128810
+    second: MapleStory_Consumables_TPBG_24
+  - first:
+      213: 4323419827875345730
+    second: MapleStory_Consumables_TPBG_25
+  - first:
+      213: -6071037314606105441
+    second: MapleStory_Consumables_TPBG_26
+  - first:
+      213: 7828853494660819248
+    second: MapleStory_Consumables_TPBG_27
+  - first:
+      213: 4171062168095031933
+    second: MapleStory_Consumables_TPBG_28
+  - first:
+      213: -7765765119936612692
+    second: MapleStory_Consumables_TPBG_29
+  - first:
+      213: 666630520863034445
+    second: MapleStory_Consumables_TPBG_30
+  - first:
+      213: -1537065576992312981
+    second: MapleStory_Consumables_TPBG_31
+  - first:
+      213: -5720484780605242417
+    second: MapleStory_Consumables_TPBG_32
+  - first:
+      213: -1946435300642903469
+    second: MapleStory_Consumables_TPBG_33
+  - first:
+      213: -6778677900490015400
+    second: MapleStory_Consumables_TPBG_34
+  - first:
+      213: -8127817071815018352
+    second: MapleStory_Consumables_TPBG_35
+  - first:
+      213: 2369790216425931042
+    second: MapleStory_Consumables_TPBG_36
+  - first:
+      213: -5396069239623798402
+    second: MapleStory_Consumables_TPBG_37
+  - first:
+      213: 2015819352657121915
+    second: MapleStory_Consumables_TPBG_38
+  - first:
+      213: -7388041852898521084
+    second: MapleStory_Consumables_TPBG_39
+  - first:
+      213: -1967390105420739244
+    second: MapleStory_Consumables_TPBG_40
+  - first:
+      213: 3665034983626139379
+    second: MapleStory_Consumables_TPBG_41
+  - first:
+      213: -1294328237077733159
+    second: MapleStory_Consumables_TPBG_42
+  - first:
+      213: 3251677759933386673
+    second: MapleStory_Consumables_TPBG_43
+  - first:
+      213: -9090532630629318432
+    second: MapleStory_Consumables_TPBG_44
+  - first:
+      213: 173643374442992008
+    second: MapleStory_Consumables_TPBG_45
+  - first:
+      213: 5425054289366001690
+    second: MapleStory_Consumables_TPBG_46
+  - first:
+      213: 3117607938161827847
+    second: MapleStory_Consumables_TPBG_47
+  - first:
+      213: -5839075320854947907
+    second: MapleStory_Consumables_TPBG_48
+  - first:
+      213: 2602617894878864967
+    second: MapleStory_Consumables_TPBG_49
+  - first:
+      213: 6979032456453703171
+    second: MapleStory_Consumables_TPBG_50
+  - first:
+      213: -5652810975715898512
+    second: MapleStory_Consumables_TPBG_51
+  - first:
+      213: 5875734527561939795
+    second: MapleStory_Consumables_TPBG_52
+  - first:
+      213: 166983919563068348
+    second: MapleStory_Consumables_TPBG_53
+  - first:
+      213: 4458672029324575168
+    second: MapleStory_Consumables_TPBG_54
+  - first:
+      213: -5366835319886614576
+    second: MapleStory_Consumables_TPBG_55
+  - first:
+      213: -2474949644932716343
+    second: MapleStory_Consumables_TPBG_56
+  - first:
+      213: 2241777392594582945
+    second: MapleStory_Consumables_TPBG_57
+  - first:
+      213: -3107013554476757378
+    second: MapleStory_Consumables_TPBG_58
+  - first:
+      213: -1458834522437981598
+    second: MapleStory_Consumables_TPBG_59
+  - first:
+      213: -2002505602156194842
+    second: MapleStory_Consumables_TPBG_60
+  - first:
+      213: 3002218455914496709
+    second: MapleStory_Consumables_TPBG_61
+  - first:
+      213: -2305152735089623769
+    second: MapleStory_Consumables_TPBG_62
+  - first:
+      213: -4760559471243491999
+    second: MapleStory_Consumables_TPBG_63
+  - first:
+      213: -8603433674579328225
+    second: MapleStory_Consumables_TPBG_64
+  - first:
+      213: -7464193183439687309
+    second: MapleStory_Consumables_TPBG_65
+  - first:
+      213: -6040183093723817371
+    second: MapleStory_Consumables_TPBG_66
+  - first:
+      213: 2266819081225090406
+    second: MapleStory_Consumables_TPBG_67
+  - first:
+      213: 2078147564258498246
+    second: MapleStory_Consumables_TPBG_68
+  - first:
+      213: -2589199030744701089
+    second: MapleStory_Consumables_TPBG_69
+  - first:
+      213: 4676347221151984673
+    second: MapleStory_Consumables_TPBG_70
+  - first:
+      213: 1157939660584597340
+    second: MapleStory_Consumables_TPBG_71
+  - first:
+      213: 922088673006483559
+    second: MapleStory_Consumables_TPBG_72
+  - first:
+      213: -8592797940627203548
+    second: MapleStory_Consumables_TPBG_73
+  - first:
+      213: 8732335712158460910
+    second: MapleStory_Consumables_TPBG_74
+  - first:
+      213: 5382237689418927051
+    second: MapleStory_Consumables_TPBG_75
+  - first:
+      213: 2831849868863531818
+    second: MapleStory_Consumables_TPBG_76
+  - first:
+      213: 6956683849334605572
+    second: MapleStory_Consumables_TPBG_77
+  - first:
+      213: 259967502064948772
+    second: MapleStory_Consumables_TPBG_78
+  - first:
+      213: 5639559720286490275
+    second: MapleStory_Consumables_TPBG_79
+  - first:
+      213: 978110523268752141
+    second: MapleStory_Consumables_TPBG_80
+  - first:
+      213: -3225205288270886546
+    second: MapleStory_Consumables_TPBG_81
+  - first:
+      213: -5936395358162684043
+    second: MapleStory_Consumables_TPBG_82
+  - first:
+      213: -4876462282428414954
+    second: MapleStory_Consumables_TPBG_83
+  - first:
+      213: -8760623655935971194
+    second: MapleStory_Consumables_TPBG_84
+  - first:
+      213: 2706620379538883871
+    second: MapleStory_Consumables_TPBG_85
+  - first:
+      213: 7164258700898316396
+    second: MapleStory_Consumables_TPBG_86
+  - first:
+      213: -8536737322291226563
+    second: MapleStory_Consumables_TPBG_87
+  - first:
+      213: -785127959111278725
+    second: MapleStory_Consumables_TPBG_88
+  - first:
+      213: -9198591624297145407
+    second: MapleStory_Consumables_TPBG_89
+  - first:
+      213: -7724376553801721704
+    second: MapleStory_Consumables_TPBG_90
+  - first:
+      213: 7064938996159511306
+    second: MapleStory_Consumables_TPBG_91
+  - first:
+      213: 4780946884239326524
+    second: MapleStory_Consumables_TPBG_92
+  - first:
+      213: -183551043311531372
+    second: MapleStory_Consumables_TPBG_93
+  - first:
+      213: -7210565796372552825
+    second: MapleStory_Consumables_TPBG_94
+  - first:
+      213: -1316332543149090952
+    second: MapleStory_Consumables_TPBG_95
+  - first:
+      213: -7175280998618814143
+    second: MapleStory_Consumables_TPBG_96
+  - first:
+      213: 3661109370939150105
+    second: MapleStory_Consumables_TPBG_97
+  - first:
+      213: -1964197495123791959
+    second: MapleStory_Consumables_TPBG_98
+  - first:
+      213: -1312477748025073718
+    second: MapleStory_Consumables_TPBG_99
+  - first:
+      213: 8502375623083475908
+    second: MapleStory_Consumables_TPBG_100
+  - first:
+      213: -1289005858176244387
+    second: MapleStory_Consumables_TPBG_101
+  - first:
+      213: 8223486865701737435
+    second: MapleStory_Consumables_TPBG_102
+  - first:
+      213: 2578930931713149715
+    second: MapleStory_Consumables_TPBG_103
+  - first:
+      213: 4231673783001744790
+    second: MapleStory_Consumables_TPBG_104
+  - first:
+      213: 9138227508292793038
+    second: MapleStory_Consumables_TPBG_105
+  - first:
+      213: 4510556686294831503
+    second: MapleStory_Consumables_TPBG_106
+  - first:
+      213: 2142122602685354438
+    second: MapleStory_Consumables_TPBG_107
+  - first:
+      213: 1948973073466534109
+    second: MapleStory_Consumables_TPBG_108
+  - first:
+      213: 1258538902334062908
+    second: MapleStory_Consumables_TPBG_109
+  - first:
+      213: -1637321123986424065
+    second: MapleStory_Consumables_TPBG_110
+  - first:
+      213: -4875294924269449583
+    second: MapleStory_Consumables_TPBG_111
+  - first:
+      213: -7078457565371752194
+    second: MapleStory_Consumables_TPBG_112
+  - first:
+      213: -1689871199312373921
+    second: MapleStory_Consumables_TPBG_113
+  - first:
+      213: 5081537956683246010
+    second: MapleStory_Consumables_TPBG_114
+  - first:
+      213: -3550770910709906419
+    second: MapleStory_Consumables_TPBG_115
+  - first:
+      213: 6295873093605008946
+    second: MapleStory_Consumables_TPBG_116
+  - first:
+      213: 8990078352033850218
+    second: MapleStory_Consumables_TPBG_117
+  - first:
+      213: 7895306743037062900
+    second: MapleStory_Consumables_TPBG_118
+  - first:
+      213: -2789441590765395224
+    second: MapleStory_Consumables_TPBG_119
+  - first:
+      213: 1001683292073977363
+    second: MapleStory_Consumables_TPBG_120
+  - first:
+      213: 3179119063585961295
+    second: MapleStory_Consumables_TPBG_121
+  - first:
+      213: -7635407945715351904
+    second: MapleStory_Consumables_TPBG_122
+  - first:
+      213: 6481241269162971310
+    second: MapleStory_Consumables_TPBG_123
+  - first:
+      213: 830151662662513212
+    second: MapleStory_Consumables_TPBG_124
+  - first:
+      213: 8875406521009978578
+    second: MapleStory_Consumables_TPBG_125
+  - first:
+      213: 7857029981373740731
+    second: MapleStory_Consumables_TPBG_126
+  - first:
+      213: 2132658338093854891
+    second: MapleStory_Consumables_TPBG_127
+  - first:
+      213: 97843326460413880
+    second: MapleStory_Consumables_TPBG_128
+  - first:
+      213: -4528092493926667856
+    second: MapleStory_Consumables_TPBG_129
+  - first:
+      213: -8922814847788591937
+    second: MapleStory_Consumables_TPBG_130
+  - first:
+      213: 3798019966606159448
+    second: MapleStory_Consumables_TPBG_131
+  - first:
+      213: -4187525496588347769
+    second: MapleStory_Consumables_TPBG_132
+  - first:
+      213: -2549864131804091558
+    second: MapleStory_Consumables_TPBG_133
+  - first:
+      213: -3485025602393759918
+    second: MapleStory_Consumables_TPBG_134
+  - first:
+      213: 5507544121711838288
+    second: MapleStory_Consumables_TPBG_135
+  - first:
+      213: 5434940827552458662
+    second: MapleStory_Consumables_TPBG_136
+  - first:
+      213: -1773246878366457283
+    second: MapleStory_Consumables_TPBG_137
+  - first:
+      213: -6368497210135936504
+    second: MapleStory_Consumables_TPBG_138
+  - first:
+      213: 3690533956230602824
+    second: MapleStory_Consumables_TPBG_139
+  - first:
+      213: -8415378977856720613
+    second: MapleStory_Consumables_TPBG_140
+  - first:
+      213: -7084734994847193120
+    second: MapleStory_Consumables_TPBG_141
+  - first:
+      213: 2033297543162764128
+    second: MapleStory_Consumables_TPBG_142
+  - first:
+      213: -8845312193437028523
+    second: MapleStory_Consumables_TPBG_143
+  - first:
+      213: -1039309691354440511
+    second: MapleStory_Consumables_TPBG_144
+  - first:
+      213: 267562630762609877
+    second: MapleStory_Consumables_TPBG_145
+  - first:
+      213: -6759279979677682529
+    second: MapleStory_Consumables_TPBG_146
+  - first:
+      213: 12535669208037087
+    second: MapleStory_Consumables_TPBG_147
+  - first:
+      213: 6569017846679371050
+    second: MapleStory_Consumables_TPBG_148
+  - first:
+      213: 8613486552477679224
+    second: MapleStory_Consumables_TPBG_149
+  - first:
+      213: 4273227619317401490
+    second: MapleStory_Consumables_TPBG_150
+  - first:
+      213: -1134028205837898094
+    second: MapleStory_Consumables_TPBG_151
+  - first:
+      213: -4432313496297234222
+    second: MapleStory_Consumables_TPBG_152
+  - first:
+      213: 7132326282839812181
+    second: MapleStory_Consumables_TPBG_153
+  - first:
+      213: -7286647129245956210
+    second: MapleStory_Consumables_TPBG_154
+  - first:
+      213: -315851103806077440
+    second: MapleStory_Consumables_TPBG_155
+  - first:
+      213: -6764436843263163655
+    second: MapleStory_Consumables_TPBG_156
+  - first:
+      213: 2145782910869356237
+    second: MapleStory_Consumables_TPBG_157
+  - first:
+      213: -4578857982019233490
+    second: MapleStory_Consumables_TPBG_158
+  - first:
+      213: 6761448924818198516
+    second: MapleStory_Consumables_TPBG_159
+  - first:
+      213: -7196710859052876575
+    second: MapleStory_Consumables_TPBG_160
+  - first:
+      213: 358291918670710346
+    second: MapleStory_Consumables_TPBG_161
+  - first:
+      213: -6380408195863547084
+    second: MapleStory_Consumables_TPBG_162
+  - first:
+      213: 3299073927213737864
+    second: MapleStory_Consumables_TPBG_163
+  - first:
+      213: 8421694993761958632
+    second: MapleStory_Consumables_TPBG_164
+  - first:
+      213: 8924969886918702392
+    second: MapleStory_Consumables_TPBG_165
+  - first:
+      213: -1791596205809689965
+    second: MapleStory_Consumables_TPBG_166
+  - first:
+      213: -6162551277871149596
+    second: MapleStory_Consumables_TPBG_167
+  - first:
+      213: -553179621478748206
+    second: MapleStory_Consumables_TPBG_168
+  - first:
+      213: -7496090686800181404
+    second: MapleStory_Consumables_TPBG_169
+  - first:
+      213: 7134084534044790730
+    second: MapleStory_Consumables_TPBG_170
+  - first:
+      213: -7738128999029894921
+    second: MapleStory_Consumables_TPBG_171
+  - first:
+      213: -9188557826879677532
+    second: MapleStory_Consumables_TPBG_172
+  - first:
+      213: -9037512642340331816
+    second: MapleStory_Consumables_TPBG_173
+  - first:
+      213: -1879575581509671615
+    second: MapleStory_Consumables_TPBG_174
+  - first:
+      213: -8348544085851750376
+    second: MapleStory_Consumables_TPBG_175
+  - first:
+      213: -5733155060114058016
+    second: MapleStory_Consumables_TPBG_176
+  - first:
+      213: -299006227118454939
+    second: MapleStory_Consumables_TPBG_177
+  - first:
+      213: -5589647175106927801
+    second: MapleStory_Consumables_TPBG_178
+  - first:
+      213: -1737712943214757072
+    second: MapleStory_Consumables_TPBG_179
+  - first:
+      213: 6919758978245970507
+    second: MapleStory_Consumables_TPBG_180
+  - first:
+      213: 676882747112862238
+    second: MapleStory_Consumables_TPBG_181
+  - first:
+      213: 6935561367264621320
+    second: MapleStory_Consumables_TPBG_182
+  - first:
+      213: 8566019800031866327
+    second: MapleStory_Consumables_TPBG_183
+  - first:
+      213: 6581103541242048812
+    second: MapleStory_Consumables_TPBG_184
+  - first:
+      213: -6057574597678838856
+    second: MapleStory_Consumables_TPBG_185
+  - first:
+      213: 2445340388814822232
+    second: MapleStory_Consumables_TPBG_186
+  - first:
+      213: -1349528106400152575
+    second: MapleStory_Consumables_TPBG_187
+  - first:
+      213: 3713504777498375098
+    second: MapleStory_Consumables_TPBG_188
+  - first:
+      213: -3820555939661592500
+    second: MapleStory_Consumables_TPBG_189
+  - first:
+      213: -2116494997157388649
+    second: MapleStory_Consumables_TPBG_190
+  - first:
+      213: 9164932477125837246
+    second: MapleStory_Consumables_TPBG_191
+  - first:
+      213: -8040295563185133403
+    second: MapleStory_Consumables_TPBG_192
+  - first:
+      213: 6751685715366285905
+    second: MapleStory_Consumables_TPBG_193
+  - first:
+      213: 6777623621829384398
+    second: MapleStory_Consumables_TPBG_194
+  - first:
+      213: 6685518708928127260
+    second: MapleStory_Consumables_TPBG_195
+  - first:
+      213: -4276702288709715030
+    second: MapleStory_Consumables_TPBG_196
+  - first:
+      213: 2124675157552469524
+    second: MapleStory_Consumables_TPBG_197
+  - first:
+      213: -1252733089862260094
+    second: MapleStory_Consumables_TPBG_198
+  - first:
+      213: 3344654964124321889
+    second: MapleStory_Consumables_TPBG_199
+  - first:
+      213: 1878126841617196573
+    second: MapleStory_Consumables_TPBG_200
+  - first:
+      213: -6486729309903205692
+    second: MapleStory_Consumables_TPBG_201
+  - first:
+      213: 3094459883528795075
+    second: MapleStory_Consumables_TPBG_202
+  - first:
+      213: 6505972162521327825
+    second: MapleStory_Consumables_TPBG_203
+  - first:
+      213: 8125917222501307604
+    second: MapleStory_Consumables_TPBG_204
+  - first:
+      213: -651122473670776932
+    second: MapleStory_Consumables_TPBG_205
+  - first:
+      213: 52730070559337364
+    second: MapleStory_Consumables_TPBG_206
+  - first:
+      213: 448648371991456780
+    second: MapleStory_Consumables_TPBG_207
+  - first:
+      213: 3363793646805260163
+    second: MapleStory_Consumables_TPBG_208
+  - first:
+      213: -192656215847450209
+    second: MapleStory_Consumables_TPBG_209
+  - first:
+      213: -6775311630750207061
+    second: MapleStory_Consumables_TPBG_210
+  - first:
+      213: 5470445151760169796
+    second: MapleStory_Consumables_TPBG_211
+  - first:
+      213: -4523464438633851664
+    second: MapleStory_Consumables_TPBG_212
+  - first:
+      213: -879118665557176174
+    second: MapleStory_Consumables_TPBG_213
+  - first:
+      213: -4491048832304358828
+    second: MapleStory_Consumables_TPBG_214
+  - first:
+      213: -1625758835119051556
+    second: MapleStory_Consumables_TPBG_215
+  - first:
+      213: 3590458319097149364
+    second: MapleStory_Consumables_TPBG_216
+  - first:
+      213: -6744158535262597134
+    second: MapleStory_Consumables_TPBG_217
+  - first:
+      213: 2179093109944327159
+    second: MapleStory_Consumables_TPBG_218
+  - first:
+      213: 8430637844912877840
+    second: MapleStory_Consumables_TPBG_219
+  - first:
+      213: 7125531239878350070
+    second: MapleStory_Consumables_TPBG_220
+  - first:
+      213: 8802551760831022575
+    second: MapleStory_Consumables_TPBG_221
+  - first:
+      213: -4809354174461175302
+    second: MapleStory_Consumables_TPBG_222
+  - first:
+      213: 3868036491582145628
+    second: MapleStory_Consumables_TPBG_223
+  - first:
+      213: 7951003737375557976
+    second: MapleStory_Consumables_TPBG_224
+  - first:
+      213: 1265701791332269166
+    second: MapleStory_Consumables_TPBG_225
+  - first:
+      213: 6057442213287864971
+    second: MapleStory_Consumables_TPBG_226
+  - first:
+      213: 4622612576954274062
+    second: MapleStory_Consumables_TPBG_227
+  - first:
+      213: 117733053643426998
+    second: MapleStory_Consumables_TPBG_228
+  - first:
+      213: 5020516941625279753
+    second: MapleStory_Consumables_TPBG_229
+  - first:
+      213: -6849723491996147687
+    second: MapleStory_Consumables_TPBG_230
+  - first:
+      213: -3520607596010894973
+    second: MapleStory_Consumables_TPBG_231
+  - first:
+      213: -5626599168411888792
+    second: MapleStory_Consumables_TPBG_232
+  - first:
+      213: -917814634889750659
+    second: MapleStory_Consumables_TPBG_233
+  - first:
+      213: -8703536623329933655
+    second: MapleStory_Consumables_TPBG_234
+  - first:
+      213: -758145067380216192
+    second: MapleStory_Consumables_TPBG_235
+  - first:
+      213: 5924189508257665532
+    second: MapleStory_Consumables_TPBG_236
+  - first:
+      213: 7927344037010607845
+    second: MapleStory_Consumables_TPBG_237
+  - first:
+      213: 4850198372803864268
+    second: MapleStory_Consumables_TPBG_238
+  - first:
+      213: 1040362358673161625
+    second: MapleStory_Consumables_TPBG_239
+  - first:
+      213: 7245140743591247971
+    second: MapleStory_Consumables_TPBG_240
+  - first:
+      213: 3022378436098077209
+    second: MapleStory_Consumables_TPBG_241
+  - first:
+      213: 1956379844008902335
+    second: MapleStory_Consumables_TPBG_242
+  - first:
+      213: -1101935633361322191
+    second: MapleStory_Consumables_TPBG_243
+  - first:
+      213: -6786616714733653160
+    second: MapleStory_Consumables_TPBG_244
+  - first:
+      213: -5864661143197168000
+    second: MapleStory_Consumables_TPBG_245
+  - first:
+      213: -82827110082576654
+    second: MapleStory_Consumables_TPBG_246
+  - first:
+      213: 6791716886006730845
+    second: MapleStory_Consumables_TPBG_247
+  - first:
+      213: 2655736345111524385
+    second: MapleStory_Consumables_TPBG_248
+  - first:
+      213: 7178665429130228727
+    second: MapleStory_Consumables_TPBG_249
+  - first:
+      213: 1708870006061610050
+    second: MapleStory_Consumables_TPBG_250
+  - first:
+      213: 5814499970492309330
+    second: MapleStory_Consumables_TPBG_251
+  - first:
+      213: -1915416878544164650
+    second: MapleStory_Consumables_TPBG_252
+  - first:
+      213: -3934667829593236836
+    second: MapleStory_Consumables_TPBG_253
+  - first:
+      213: -8358831898518197002
+    second: MapleStory_Consumables_TPBG_254
+  - first:
+      213: 4682744100708818114
+    second: MapleStory_Consumables_TPBG_255
+  - first:
+      213: -3003580608890811605
+    second: MapleStory_Consumables_TPBG_256
+  - first:
+      213: 4795748797034581839
+    second: MapleStory_Consumables_TPBG_257
+  - first:
+      213: 527761383216037708
+    second: MapleStory_Consumables_TPBG_258
+  - first:
+      213: -352518018203392983
+    second: MapleStory_Consumables_TPBG_259
+  - first:
+      213: 8463226840384214727
+    second: MapleStory_Consumables_TPBG_260
+  - first:
+      213: 7555841057180796653
+    second: MapleStory_Consumables_TPBG_261
+  - first:
+      213: 293921851226707872
+    second: MapleStory_Consumables_TPBG_262
+  - first:
+      213: 6640941826660500740
+    second: MapleStory_Consumables_TPBG_263
+  - first:
+      213: 6020723858670639185
+    second: MapleStory_Consumables_TPBG_264
+  - first:
+      213: -8397980161866076251
+    second: MapleStory_Consumables_TPBG_265
+  - first:
+      213: 7593553416937799695
+    second: MapleStory_Consumables_TPBG_266
+  - first:
+      213: 8835187193489481363
+    second: MapleStory_Consumables_TPBG_267
+  - first:
+      213: -1159887314711865280
+    second: MapleStory_Consumables_TPBG_268
+  - first:
+      213: -3253070814905041426
+    second: MapleStory_Consumables_TPBG_269
+  - first:
+      213: -4133105610493745395
+    second: MapleStory_Consumables_TPBG_270
+  - first:
+      213: 8750502046748117838
+    second: MapleStory_Consumables_TPBG_271
+  - first:
+      213: -6673961304542852824
+    second: MapleStory_Consumables_TPBG_272
+  - first:
+      213: -2209327546722291938
+    second: MapleStory_Consumables_TPBG_273
+  - first:
+      213: -7106761781640666541
+    second: MapleStory_Consumables_TPBG_274
+  - first:
+      213: 3746567935739136225
+    second: MapleStory_Consumables_TPBG_275
+  - first:
+      213: -2259764512575988990
+    second: MapleStory_Consumables_TPBG_276
+  - first:
+      213: -3910907512799238420
+    second: MapleStory_Consumables_TPBG_277
+  - first:
+      213: 2997075929707952573
+    second: MapleStory_Consumables_TPBG_278
+  - first:
+      213: 2536388298680483510
+    second: MapleStory_Consumables_TPBG_279
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Food_Watermelon
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 757
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd871d43638c5e0800000000000000
+      internalID: -1889200443201364882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sundae
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 754
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4febed5eb04eff1b0800000000000000
+      internalID: -5620523070182736140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Roast
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 640
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d34c0417687990800000000000000
+      internalID: -7388041852898521084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Eggs
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 644
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d47cf6f1d62b4e0800000000000000
+      internalID: -1967390105420739244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Orange
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 645
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f66a6046e1dcd230800000000000000
+      internalID: 3665034983626139379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Lemon
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 644
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d06936735f990ee0800000000000000
+      internalID: -1294328237077733159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_BeeHive
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 642
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0edcc1b7402d20800000000000000
+      internalID: 3251677759933386673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Honey
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 643
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00e347cb0f7d180800000000000000
+      internalID: -9090532630629318432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Apple_Red
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 642
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8815643aab7e86200800000000000000
+      internalID: 173643374442992008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Apple_Green
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 642
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18aedc022aa94b40800000000000000
+      internalID: 5425054289366001690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Mushroom_Purple
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 641
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700e217e6e7f34b20800000000000000
+      internalID: 3117607938161827847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Salad
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 645
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb3ddfb6dca8150800000000000000
+      internalID: 5875734527561939795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Roast_Chicken
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 645
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb352c87dfe315200800000000000000
+      internalID: 166983919563068348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Vanilla
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 644
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18cdd669260ed30800000000000000
+      internalID: 4458672029324575168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pizza_Slice
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 646
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df632616bb2585b0800000000000000
+      internalID: -5366835319886614576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Burger
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 644
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86ec8296637add0800000000000000
+      internalID: -2474949644932716343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_HotDog
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 589
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adf91f39a46c1f10800000000000000
+      internalID: 2241777392594582945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Squid
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 582
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec61542aba1e4d0800000000000000
+      internalID: -3107013554476757378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Juice_Orange
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 582
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e310cab3cba534e0800000000000000
+      internalID: -2002505602156194842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Juice_Apple
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 582
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c7ea77c50aa920800000000000000
+      internalID: 3002218455914496709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Noodles_Spicy
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 582
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d76f7fcc37200e0800000000000000
+      internalID: -2305152735089623769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cheese_Parm
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 587
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165096822681fedb0800000000000000
+      internalID: -4760559471243491999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Cheese
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 586
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665bf7ab1fb557f10800000000000000
+      internalID: 2266819081225090406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Strawberry
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 587
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6987ef23017dc10800000000000000
+      internalID: 2078147564258498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Smores
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 585
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572daf1331511cd0800000000000000
+      internalID: -2589199030744701089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Coconut
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 586
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c26237509b5e040800000000000000
+      internalID: 4676347221151984673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Neopolotan
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 586
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573b7c7cf3d11010800000000000000
+      internalID: 1157939660584597340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_BentoBox_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 582
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76876fd33caebcc00800000000000000
+      internalID: 922088673006483559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Chocolate_Heart
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 583
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1532bccf30c880800000000000000
+      internalID: -8592797940627203548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Easter_Basket_1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 582
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeba9a6701d7f2970800000000000000
+      internalID: 8732335712158460910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pineapple_Stick
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 582
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbc88689ac81ba40800000000000000
+      internalID: 5382237689418927051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Easter_Basket_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 525
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be8d2b370cc4720800000000000000
+      internalID: 2831849868863531818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Chocolate_Bar
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 526
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40749465a1b1b8060800000000000000
+      internalID: 6956683849334605572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Corn
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 525
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261ab5d0179b9300800000000000000
+      internalID: 259967502064948772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Roast_Turkey
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 526
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae07499fadb34e40800000000000000
+      internalID: 5639559720286490275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Coke_Bottle
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 525
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d036182b652f29d00800000000000000
+      internalID: 978110523268752141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Slice
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 528
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6907e0d0e4cd33d0800000000000000
+      internalID: -3225205288270886546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Water
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 525
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5777f66cfdfad9da0800000000000000
+      internalID: -5936395358162684043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Coffe
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 533
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61483470463535cb0800000000000000
+      internalID: -4876462282428414954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Ramane
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 525
+        width: 13
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6807d0163330c6680800000000000000
+      internalID: -8760623655935971194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 532
+        width: 31
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f158f3815e8df8520800000000000000
+      internalID: 2706620379538883871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 529
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60bb02a45f8c6360800000000000000
+      internalID: 7164258700898316396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 526
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38130c82aa678980800000000000000
+      internalID: -8536737322291226563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 529
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd1fde74aaa15f0800000000000000
+      internalID: -785127959111278725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_5
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 529
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb92e767a9085080800000000000000
+      internalID: -9198591624297145407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 530
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898da4723708dc490800000000000000
+      internalID: -7724376553801721704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 528
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b74e9d594bb0260800000000000000
+      internalID: 7064938996159511306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sushi_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 526
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d78155cd5595240800000000000000
+      internalID: 4780946884239326524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_1
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 527
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a83417c45e37df0800000000000000
+      internalID: -183551043311531372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_BentoBox_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 525
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e1a58c9ceeeb90800000000000000
+      internalID: -7210565796372552825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 469
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14927b1b2f74c6c90800000000000000
+      internalID: -7175280998618814143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 470
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8ea2539fdec230800000000000000
+      internalID: 3661109370939150105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 470
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af2f62f8c4cdb4e0800000000000000
+      internalID: -1964197495123791959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 473
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3c4d8e4918ef570800000000000000
+      internalID: 8502375623083475908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 469
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e10e50088c1ee0800000000000000
+      internalID: -1289005858176244387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 469
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd31e350cb1bf1270800000000000000
+      internalID: 8223486865701737435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 470
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8705c4043ac320800000000000000
+      internalID: 2578930931713149715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 470
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950721a2ece9ba30800000000000000
+      internalID: 4231673783001744790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 470
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2be7c908181de70800000000000000
+      internalID: 9138227508292793038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pepsi_Can
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 468
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0275af85444cd90800000000000000
+      internalID: -7078457565371752194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_BreadedShrimp
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 413
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236244fb83f6f5750800000000000000
+      internalID: 6295873093605008946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Lobster
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 415
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26abcf6a9e949d0800000000000000
+      internalID: -2789441590765395224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 413
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166381a5a1b6ed00800000000000000
+      internalID: 1001683292073977363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Crab
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 412
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b6b3d1ff7e1c20800000000000000
+      internalID: 3179119063585961295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sandwhich_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 415
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef0707de4990690800000000000000
+      internalID: -7635407945715351904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Tofu
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 414
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09f00689ef1f950800000000000000
+      internalID: 6481241269162971310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Tangerines
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 412
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0fb5d8579b89d10800000000000000
+      internalID: 2132658338093854891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Dumplings
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 415
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4daf8cb2bcb2480800000000000000
+      internalID: -8922814847788591937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Roasted_Corn
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 411
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d5ff4fbbe2e5c0800000000000000
+      internalID: -4187525496588347769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Juice_Pineapple
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 354
+        width: 13
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054cc6fc23abe6c40800000000000000
+      internalID: 5507544121711838288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Coke_Can
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 356
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b14e6b759b73c10800000000000000
+      internalID: 2033297543162764128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Steak_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 356
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f6e1bba63232a0800000000000000
+      internalID: -6759279979677682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Strawberry
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 354
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ba2eef198c2000800000000000000
+      internalID: 12535669208037087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Blackberry
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 354
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d768a6de6d92b50800000000000000
+      internalID: 6569017846679371050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Blueberry
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 354
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e390e1260498770800000000000000
+      internalID: 8613486552477679224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Porkchop
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 356
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a808cb524d72c0800000000000000
+      internalID: -4432313496297234222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 355
+        width: 35
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55869de27fc1bf260800000000000000
+      internalID: 7132326282839812181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Waffles_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 296
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f20cb3d784ef12a0800000000000000
+      internalID: -6764436843263163655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Lollipop_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 297
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff4cb239fd75dd50800000000000000
+      internalID: 6761448924818198516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Lollipop_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 297
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf4fe7a95202c90800000000000000
+      internalID: -7196710859052876575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Lollipop_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 297
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c24a0a98e8f400800000000000000
+      internalID: 358291918670710346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pie_Slice
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 302
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e35fe14aa8cd20800000000000000
+      internalID: 3299073927213737864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Peach
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 302
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafddd0afedfd470800000000000000
+      internalID: 8421694993761958632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Melon_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 298
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4c5c63483a7aa0800000000000000
+      internalID: -6162551277871149596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pie_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 304
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46749218c3988f790800000000000000
+      internalID: -7496090686800181404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Juice_Peach
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 240
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41baf29ddbf60b0800000000000000
+      internalID: -5733155060114058016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Soup_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 244
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56789feab67b9dbf0800000000000000
+      internalID: -299006227118454939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Cake_Birthday
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 240
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12b040b545c46900800000000000000
+      internalID: 676882747112862238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Raman_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 245
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040d9b5653854de0800000000000000
+      internalID: -1349528106400152575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Steak_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 186
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cab99315be93600800000000000000
+      internalID: 448648371991456780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Pizza
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 187
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41e153f0d6931c0800000000000000
+      internalID: -4523464438633851664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Waffles
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 187
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2909c004b3ebcc3f0800000000000000
+      internalID: -879118665557176174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Sandwhich_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 131
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ebe186c4e0f0a0800000000000000
+      internalID: -6849723491996147687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Spicy_Candy
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 126
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3898a3e5b0a442fc0800000000000000
+      internalID: -3520607596010894973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Candy_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 126
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ddbdc3744343f0800000000000000
+      internalID: -917814634889750659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Slime_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 130
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a601dced83d63780800000000000000
+      internalID: -8703536623329933655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Slime_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 130
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e669af3178a75f0800000000000000
+      internalID: -758145067380216192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Slime_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 130
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15bc558f2f63250800000000000000
+      internalID: 5924189508257665532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Slime_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 130
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee045a9665930e60800000000000000
+      internalID: 7927344037010607845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Maple_Stick
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 128
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e62df8bd5f4340800000000000000
+      internalID: 4850198372803864268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Mashed_Potatoes
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 126
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604771be19eb8460800000000000000
+      internalID: 7245140743591247971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Baked_Potatoe
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe72ef4a15762b10800000000000000
+      internalID: 1956379844008902335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Gravy
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 129
+        width: 34
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3728316325b0f0800000000000000
+      internalID: -1101935633361322191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 68
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85372931e0811d1a0800000000000000
+      internalID: -6786616714733653160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Misc_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 33
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e42b733c98c9ea0800000000000000
+      internalID: -5864661143197168000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Stinky_Cheese
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe71c5ae2db9def0800000000000000
+      internalID: -82827110082576654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_CandyApple
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 68
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124777b92221bd420800000000000000
+      internalID: 2655736345111524385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Food_Waffles_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 72
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f33fa07c2ebf9360800000000000000
+      internalID: 7178665429130228727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fec7de6288bc96f46ac76a7d555e6b75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Item_Food_Apple_Green: 5425054289366001690
+      Item_Food_Apple_Red: 173643374442992008
+      Item_Food_Baked_Potatoe: 1956379844008902335
+      Item_Food_BeeHive: 3251677759933386673
+      Item_Food_BentoBox_1: 922088673006483559
+      Item_Food_BentoBox_2: -7210565796372552825
+      Item_Food_Blackberry: 6569017846679371050
+      Item_Food_Blueberry: 8613486552477679224
+      Item_Food_BreadedShrimp: 6295873093605008946
+      Item_Food_Burger: -2474949644932716343
+      Item_Food_Cake_Birthday: 676882747112862238
+      Item_Food_Cake_Cheese: 2266819081225090406
+      Item_Food_Cake_Coconut: 4676347221151984673
+      Item_Food_Cake_Neopolotan: 1157939660584597340
+      Item_Food_Cake_Slice: -3225205288270886546
+      Item_Food_Cake_Smores: -2589199030744701089
+      Item_Food_Cake_Strawberry: 2078147564258498246
+      Item_Food_Cake_Vanilla: 4458672029324575168
+      Item_Food_CandyApple: 2655736345111524385
+      Item_Food_Candy_1: -917814634889750659
+      Item_Food_Cheese_Parm: -4760559471243491999
+      Item_Food_Chocolate_Bar: 6956683849334605572
+      Item_Food_Chocolate_Heart: -8592797940627203548
+      Item_Food_Coffe: -4876462282428414954
+      Item_Food_Coke_Bottle: 978110523268752141
+      Item_Food_Coke_Can: 2033297543162764128
+      Item_Food_Corn: 259967502064948772
+      Item_Food_Crab: 3179119063585961295
+      Item_Food_Dumplings: -8922814847788591937
+      Item_Food_Easter_Basket_1: 8732335712158460910
+      Item_Food_Easter_Basket_2: 2831849868863531818
+      Item_Food_Eggs: -1967390105420739244
+      Item_Food_Gravy: -1101935633361322191
+      Item_Food_Honey: -9090532630629318432
+      Item_Food_HotDog: 2241777392594582945
+      Item_Food_Juice_Apple: 3002218455914496709
+      Item_Food_Juice_Orange: -2002505602156194842
+      Item_Food_Juice_Peach: -5733155060114058016
+      Item_Food_Juice_Pineapple: 5507544121711838288
+      Item_Food_Lemon: -1294328237077733159
+      Item_Food_Lobster: -2789441590765395224
+      Item_Food_Lollipop_1: 6761448924818198516
+      Item_Food_Lollipop_2: -7196710859052876575
+      Item_Food_Lollipop_3: 358291918670710346
+      Item_Food_Maple_Stick: 4850198372803864268
+      Item_Food_Mashed_Potatoes: 7245140743591247971
+      Item_Food_Melon_1: -6162551277871149596
+      Item_Food_Misc_1: 7132326282839812181
+      Item_Food_Misc_2: -5864661143197168000
+      Item_Food_Misc_3: -6786616714733653160
+      Item_Food_Misc_4: 8502375623083475908
+      Item_Food_Misc_5: -1289005858176244387
+      Item_Food_Misc_6: 8223486865701737435
+      Item_Food_Misc_7: 2578930931713149715
+      Item_Food_Misc_8: 4231673783001744790
+      Item_Food_Misc_9: 9138227508292793038
+      Item_Food_Mushroom_Purple: 3117607938161827847
+      Item_Food_Noodles_Spicy: -2305152735089623769
+      Item_Food_Orange: 3665034983626139379
+      Item_Food_Peach: 8421694993761958632
+      Item_Food_Pepsi_Can: -7078457565371752194
+      Item_Food_Pie_1: -7496090686800181404
+      Item_Food_Pie_Slice: 3299073927213737864
+      Item_Food_Pineapple_Stick: 5382237689418927051
+      Item_Food_Pizza: -4523464438633851664
+      Item_Food_Pizza_Slice: -5366835319886614576
+      Item_Food_Porkchop: -4432313496297234222
+      Item_Food_Raman_1: -183551043311531372
+      Item_Food_Raman_2: -7175280998618814143
+      Item_Food_Raman_3: 3661109370939150105
+      Item_Food_Raman_4: -1964197495123791959
+      Item_Food_Raman_5: 1001683292073977363
+      Item_Food_Raman_6: -1349528106400152575
+      Item_Food_Ramane: -8760623655935971194
+      Item_Food_Roast: -7388041852898521084
+      Item_Food_Roast_Chicken: 166983919563068348
+      Item_Food_Roast_Turkey: 5639559720286490275
+      Item_Food_Roasted_Corn: -4187525496588347769
+      Item_Food_Salad: 5875734527561939795
+      Item_Food_Sandwhich_1: -6849723491996147687
+      Item_Food_Sandwhich_2: -7635407945715351904
+      Item_Food_Slime_1: -8703536623329933655
+      Item_Food_Slime_2: -758145067380216192
+      Item_Food_Slime_3: 5924189508257665532
+      Item_Food_Slime_4: 7927344037010607845
+      Item_Food_Soup_1: -299006227118454939
+      Item_Food_Spicy_Candy: -3520607596010894973
+      Item_Food_Squid: -3107013554476757378
+      Item_Food_Steak_1: 448648371991456780
+      Item_Food_Steak_2: -6759279979677682529
+      Item_Food_Stinky_Cheese: -82827110082576654
+      Item_Food_Strawberry: 12535669208037087
+      Item_Food_Sundae: -5620523070182736140
+      Item_Food_Sushi_1: 2706620379538883871
+      Item_Food_Sushi_2: 7164258700898316396
+      Item_Food_Sushi_3: -8536737322291226563
+      Item_Food_Sushi_4: -785127959111278725
+      Item_Food_Sushi_5: -9198591624297145407
+      Item_Food_Sushi_6: -7724376553801721704
+      Item_Food_Sushi_7: 7064938996159511306
+      Item_Food_Sushi_8: 4780946884239326524
+      Item_Food_Tangerines: 2132658338093854891
+      Item_Food_Tofu: 6481241269162971310
+      Item_Food_Waffles: -879118665557176174
+      Item_Food_Waffles_2: -6764436843263163655
+      Item_Food_Waffles_3: 7178665429130228727
+      Item_Food_Water: -5936395358162684043
+      Item_Food_Watermelon: -1889200443201364882
+      Item_Potion_Health_10: 918492973373193429
+      Item_Potion_Health_100: 3023567953106642360
+      Item_Potion_Health_50: 4648065322445251866
+      Item_Potion_Mana_100: -5392020827520056978
+      Item_Potion_Mana_50: -8006978470027388336
+      MapleStory_Consumables_TPBG_10: 550332306407085718
+      MapleStory_Consumables_TPBG_106: 4510556686294831503
+      MapleStory_Consumables_TPBG_107: 2142122602685354438
+      MapleStory_Consumables_TPBG_108: 1948973073466534109
+      MapleStory_Consumables_TPBG_109: 1258538902334062908
+      MapleStory_Consumables_TPBG_11: 487954709361212396
+      MapleStory_Consumables_TPBG_110: -1637321123986424065
+      MapleStory_Consumables_TPBG_111: -4875294924269449583
+      MapleStory_Consumables_TPBG_113: -1689871199312373921
+      MapleStory_Consumables_TPBG_114: 5081537956683246010
+      MapleStory_Consumables_TPBG_115: -3550770910709906419
+      MapleStory_Consumables_TPBG_117: 8990078352033850218
+      MapleStory_Consumables_TPBG_118: 7895306743037062900
+      MapleStory_Consumables_TPBG_12: 4179592112742334187
+      MapleStory_Consumables_TPBG_124: 830151662662513212
+      MapleStory_Consumables_TPBG_125: 8875406521009978578
+      MapleStory_Consumables_TPBG_126: 7857029981373740731
+      MapleStory_Consumables_TPBG_128: 97843326460413880
+      MapleStory_Consumables_TPBG_129: -4528092493926667856
+      MapleStory_Consumables_TPBG_131: 3798019966606159448
+      MapleStory_Consumables_TPBG_133: -2549864131804091558
+      MapleStory_Consumables_TPBG_134: -3485025602393759918
+      MapleStory_Consumables_TPBG_136: 5434940827552458662
+      MapleStory_Consumables_TPBG_137: -1773246878366457283
+      MapleStory_Consumables_TPBG_138: -6368497210135936504
+      MapleStory_Consumables_TPBG_139: 3690533956230602824
+      MapleStory_Consumables_TPBG_14: 6562415084196796407
+      MapleStory_Consumables_TPBG_140: -8415378977856720613
+      MapleStory_Consumables_TPBG_141: -7084734994847193120
+      MapleStory_Consumables_TPBG_143: -8845312193437028523
+      MapleStory_Consumables_TPBG_144: -1039309691354440511
+      MapleStory_Consumables_TPBG_145: 267562630762609877
+      MapleStory_Consumables_TPBG_150: 4273227619317401490
+      MapleStory_Consumables_TPBG_151: -1134028205837898094
+      MapleStory_Consumables_TPBG_154: -7286647129245956210
+      MapleStory_Consumables_TPBG_155: -315851103806077440
+      MapleStory_Consumables_TPBG_157: 2145782910869356237
+      MapleStory_Consumables_TPBG_158: -4578857982019233490
+      MapleStory_Consumables_TPBG_16: 635654133363128897
+      MapleStory_Consumables_TPBG_162: -6380408195863547084
+      MapleStory_Consumables_TPBG_165: 8924969886918702392
+      MapleStory_Consumables_TPBG_166: -1791596205809689965
+      MapleStory_Consumables_TPBG_168: -553179621478748206
+      MapleStory_Consumables_TPBG_17: -4597626975234008123
+      MapleStory_Consumables_TPBG_170: 7134084534044790730
+      MapleStory_Consumables_TPBG_171: -7738128999029894921
+      MapleStory_Consumables_TPBG_172: -9188557826879677532
+      MapleStory_Consumables_TPBG_173: -9037512642340331816
+      MapleStory_Consumables_TPBG_174: -1879575581509671615
+      MapleStory_Consumables_TPBG_175: -8348544085851750376
+      MapleStory_Consumables_TPBG_178: -5589647175106927801
+      MapleStory_Consumables_TPBG_179: -1737712943214757072
+      MapleStory_Consumables_TPBG_18: 6956247823334816016
+      MapleStory_Consumables_TPBG_180: 6919758978245970507
+      MapleStory_Consumables_TPBG_182: 6935561367264621320
+      MapleStory_Consumables_TPBG_183: 8566019800031866327
+      MapleStory_Consumables_TPBG_184: 6581103541242048812
+      MapleStory_Consumables_TPBG_185: -6057574597678838856
+      MapleStory_Consumables_TPBG_186: 2445340388814822232
+      MapleStory_Consumables_TPBG_188: 3713504777498375098
+      MapleStory_Consumables_TPBG_189: -3820555939661592500
+      MapleStory_Consumables_TPBG_19: -5550588180930227551
+      MapleStory_Consumables_TPBG_190: -2116494997157388649
+      MapleStory_Consumables_TPBG_191: 9164932477125837246
+      MapleStory_Consumables_TPBG_192: -8040295563185133403
+      MapleStory_Consumables_TPBG_193: 6751685715366285905
+      MapleStory_Consumables_TPBG_194: 6777623621829384398
+      MapleStory_Consumables_TPBG_195: 6685518708928127260
+      MapleStory_Consumables_TPBG_196: -4276702288709715030
+      MapleStory_Consumables_TPBG_197: 2124675157552469524
+      MapleStory_Consumables_TPBG_198: -1252733089862260094
+      MapleStory_Consumables_TPBG_199: 3344654964124321889
+      MapleStory_Consumables_TPBG_20: -2322733128456403529
+      MapleStory_Consumables_TPBG_200: 1878126841617196573
+      MapleStory_Consumables_TPBG_201: -6486729309903205692
+      MapleStory_Consumables_TPBG_202: 3094459883528795075
+      MapleStory_Consumables_TPBG_203: 6505972162521327825
+      MapleStory_Consumables_TPBG_204: 8125917222501307604
+      MapleStory_Consumables_TPBG_205: -651122473670776932
+      MapleStory_Consumables_TPBG_206: 52730070559337364
+      MapleStory_Consumables_TPBG_208: 3363793646805260163
+      MapleStory_Consumables_TPBG_209: -192656215847450209
+      MapleStory_Consumables_TPBG_21: -866913882327539546
+      MapleStory_Consumables_TPBG_210: -6775311630750207061
+      MapleStory_Consumables_TPBG_211: 5470445151760169796
+      MapleStory_Consumables_TPBG_214: -4491048832304358828
+      MapleStory_Consumables_TPBG_215: -1625758835119051556
+      MapleStory_Consumables_TPBG_216: 3590458319097149364
+      MapleStory_Consumables_TPBG_217: -6744158535262597134
+      MapleStory_Consumables_TPBG_218: 2179093109944327159
+      MapleStory_Consumables_TPBG_219: 8430637844912877840
+      MapleStory_Consumables_TPBG_22: -6904221528074491998
+      MapleStory_Consumables_TPBG_220: 7125531239878350070
+      MapleStory_Consumables_TPBG_221: 8802551760831022575
+      MapleStory_Consumables_TPBG_222: -4809354174461175302
+      MapleStory_Consumables_TPBG_223: 3868036491582145628
+      MapleStory_Consumables_TPBG_224: 7951003737375557976
+      MapleStory_Consumables_TPBG_225: 1265701791332269166
+      MapleStory_Consumables_TPBG_226: 6057442213287864971
+      MapleStory_Consumables_TPBG_227: 4622612576954274062
+      MapleStory_Consumables_TPBG_228: 117733053643426998
+      MapleStory_Consumables_TPBG_229: 5020516941625279753
+      MapleStory_Consumables_TPBG_23: 2796264330388348790
+      MapleStory_Consumables_TPBG_232: -5626599168411888792
+      MapleStory_Consumables_TPBG_239: 1040362358673161625
+      MapleStory_Consumables_TPBG_24: 364084788886128810
+      MapleStory_Consumables_TPBG_241: 3022378436098077209
+      MapleStory_Consumables_TPBG_247: 6791716886006730845
+      MapleStory_Consumables_TPBG_25: 4323419827875345730
+      MapleStory_Consumables_TPBG_250: 1708870006061610050
+      MapleStory_Consumables_TPBG_251: 5814499970492309330
+      MapleStory_Consumables_TPBG_252: -1915416878544164650
+      MapleStory_Consumables_TPBG_253: -3934667829593236836
+      MapleStory_Consumables_TPBG_254: -8358831898518197002
+      MapleStory_Consumables_TPBG_255: 4682744100708818114
+      MapleStory_Consumables_TPBG_256: -3003580608890811605
+      MapleStory_Consumables_TPBG_257: 4795748797034581839
+      MapleStory_Consumables_TPBG_258: 527761383216037708
+      MapleStory_Consumables_TPBG_259: -352518018203392983
+      MapleStory_Consumables_TPBG_26: -6071037314606105441
+      MapleStory_Consumables_TPBG_260: 8463226840384214727
+      MapleStory_Consumables_TPBG_261: 7555841057180796653
+      MapleStory_Consumables_TPBG_262: 293921851226707872
+      MapleStory_Consumables_TPBG_263: 6640941826660500740
+      MapleStory_Consumables_TPBG_264: 6020723858670639185
+      MapleStory_Consumables_TPBG_265: -8397980161866076251
+      MapleStory_Consumables_TPBG_266: 7593553416937799695
+      MapleStory_Consumables_TPBG_267: 8835187193489481363
+      MapleStory_Consumables_TPBG_268: -1159887314711865280
+      MapleStory_Consumables_TPBG_269: -3253070814905041426
+      MapleStory_Consumables_TPBG_27: 7828853494660819248
+      MapleStory_Consumables_TPBG_270: -4133105610493745395
+      MapleStory_Consumables_TPBG_271: 8750502046748117838
+      MapleStory_Consumables_TPBG_272: -6673961304542852824
+      MapleStory_Consumables_TPBG_273: -2209327546722291938
+      MapleStory_Consumables_TPBG_274: -7106761781640666541
+      MapleStory_Consumables_TPBG_275: 3746567935739136225
+      MapleStory_Consumables_TPBG_276: -2259764512575988990
+      MapleStory_Consumables_TPBG_277: -3910907512799238420
+      MapleStory_Consumables_TPBG_278: 2997075929707952573
+      MapleStory_Consumables_TPBG_279: 2536388298680483510
+      MapleStory_Consumables_TPBG_28: 4171062168095031933
+      MapleStory_Consumables_TPBG_29: -7765765119936612692
+      MapleStory_Consumables_TPBG_30: 666630520863034445
+      MapleStory_Consumables_TPBG_31: -1537065576992312981
+      MapleStory_Consumables_TPBG_32: -5720484780605242417
+      MapleStory_Consumables_TPBG_33: -1946435300642903469
+      MapleStory_Consumables_TPBG_34: -6778677900490015400
+      MapleStory_Consumables_TPBG_35: -8127817071815018352
+      MapleStory_Consumables_TPBG_36: 2369790216425931042
+      MapleStory_Consumables_TPBG_37: -5396069239623798402
+      MapleStory_Consumables_TPBG_4: -1042231613863266929
+      MapleStory_Consumables_TPBG_48: -5839075320854947907
+      MapleStory_Consumables_TPBG_49: 2602617894878864967
+      MapleStory_Consumables_TPBG_5: -4411701590249623535
+      MapleStory_Consumables_TPBG_50: 6979032456453703171
+      MapleStory_Consumables_TPBG_51: -5652810975715898512
+      MapleStory_Consumables_TPBG_59: -1458834522437981598
+      MapleStory_Consumables_TPBG_64: -8603433674579328225
+      MapleStory_Consumables_TPBG_65: -7464193183439687309
+      MapleStory_Consumables_TPBG_66: -6040183093723817371
+      MapleStory_Consumables_TPBG_7: -6727855141060852031
+      MapleStory_Consumables_TPBG_8: 788742327297044634
+      MapleStory_Consumables_TPBG_9: -1956565887327846748
+      MapleStory_Consumables_TPBG_95: -1316332543149090952
+      MapleStory_Consumables_TPBG_99: -1312477748025073718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
