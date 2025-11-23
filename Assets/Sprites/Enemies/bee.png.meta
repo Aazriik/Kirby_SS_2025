@@ -163,12 +163,12 @@ TextureImporter:
       name: bee_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 27
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 5
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: bee_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 4
-        width: 29
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 5
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: bee_2
       rect:
         serializedVersion: 2
-        x: 79
-        y: 4
-        width: 30
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 80
+        y: 5
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: bee_3
       rect:
         serializedVersion: 2
-        x: 116
-        y: 4
-        width: 29
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 117
+        y: 5
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,12 +251,12 @@ TextureImporter:
       name: bee_4
       rect:
         serializedVersion: 2
-        x: 153
-        y: 4
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 154
+        y: 5
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: bee_5
       rect:
         serializedVersion: 2
-        x: 190
-        y: 4
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 191
+        y: 5
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: bee_6
       rect:
         serializedVersion: 2
-        x: 227
-        y: 4
-        width: 30
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 228
+        y: 5
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: bee_7
       rect:
         serializedVersion: 2
-        x: 264
-        y: 4
-        width: 29
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 265
+        y: 5
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -339,7 +339,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 19f94852020cf0b4294c3c4e7a7018bc
     internalID: 0
     vertices: []
     indices: 
@@ -347,7 +347,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       bee_0: -4656658513182322354
       bee_1: 8806478641461110654
