@@ -49,6 +49,8 @@ public class Shoot: MonoBehaviour
             curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, Quaternion.identity);
             // Set its velocity to the initial shot velocity
             curProjectile.SetVelocity(initialShotVelocity);
+            // Set its spin direction to clockwise
+            curProjectile.SetSpinDirection(false);
         }
         // If flipped, shoot to the left
         else
@@ -57,6 +59,8 @@ public class Shoot: MonoBehaviour
             curProjectile = Instantiate(projectilePrefab, spawnPointLeft.position, Quaternion.identity);
             // Set its velocity to the negative initial shot velocity on the x-axis
             curProjectile.SetVelocity(new Vector2(-initialShotVelocity.x, initialShotVelocity.y));
+            // Set its spin direction to counter-clockwise
+            curProjectile.SetSpinDirection(true);
         }
     }
 

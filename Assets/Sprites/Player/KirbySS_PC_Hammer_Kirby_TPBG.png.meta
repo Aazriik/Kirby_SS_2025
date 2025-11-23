@@ -4348,6 +4348,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: PlayerProjectile
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1425
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c549ba9920664a8958094d6aa5842
+      internalID: 324857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -4565,6 +4587,7 @@ TextureImporter:
       Kirby_Walk_4: -3160376412859785610
       Kirby_WarpStar_1: 1625540964913420603
       Kirby_WarpStar_2: -7853860966097069531
+      PlayerProjectile: 324857250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
