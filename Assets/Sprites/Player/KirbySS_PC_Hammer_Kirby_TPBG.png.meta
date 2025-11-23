@@ -924,8 +924,8 @@ TextureImporter:
         y: 2634
         width: 74
         height: 83
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.6867092, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -946,8 +946,8 @@ TextureImporter:
         y: 2634
         width: 75
         height: 83
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.6867092, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -990,8 +990,8 @@ TextureImporter:
         y: 2634
         width: 75
         height: 68
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.6867092, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1012,8 +1012,8 @@ TextureImporter:
         y: 2633
         width: 110
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.66542304, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1034,8 +1034,8 @@ TextureImporter:
         y: 2490
         width: 86
         height: 86
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.7153526, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1056,8 +1056,8 @@ TextureImporter:
         y: 2490
         width: 72
         height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.6740638, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1078,8 +1078,8 @@ TextureImporter:
         y: 2490
         width: 67
         height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.6488743, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1122,8 +1122,8 @@ TextureImporter:
         y: 2494
         width: 96
         height: 72
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.7079961, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1144,8 +1144,8 @@ TextureImporter:
         y: 2490
         width: 82
         height: 88
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.71459067, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1166,8 +1166,8 @@ TextureImporter:
         y: 2490
         width: 72
         height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.68055046, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1210,8 +1210,8 @@ TextureImporter:
         y: 2490
         width: 33
         height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.629241, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1228,12 +1228,12 @@ TextureImporter:
       name: Kirby_Jump_1
       rect:
         serializedVersion: 2
-        x: 15
-        y: 2348
-        width: 86
-        height: 88
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 16
+        y: 2349
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7132052, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1250,12 +1250,12 @@ TextureImporter:
       name: Kirby_Jump_2
       rect:
         serializedVersion: 2
-        x: 163
-        y: 2313
-        width: 64
-        height: 87
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 164
+        y: 2315
+        width: 62
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3780272, y: 0.4722802}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1272,12 +1272,12 @@ TextureImporter:
       name: Kirby_Jump_3
       rect:
         serializedVersion: 2
-        x: 263
-        y: 2305
-        width: 56
-        height: 93
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 264
+        y: 2306
+        width: 54
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6331678, y: 0.53340524}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1294,12 +1294,12 @@ TextureImporter:
       name: Kirby_Jump_4
       rect:
         serializedVersion: 2
-        x: 347
-        y: 2352
-        width: 89
-        height: 86
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 348
+        y: 2354
+        width: 87
+        height: 83
+      alignment: 9
+      pivot: {x: 0.7410096, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1316,12 +1316,12 @@ TextureImporter:
       name: Kirby_Jump_5
       rect:
         serializedVersion: 2
-        x: 471
-        y: 2352
-        width: 76
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 472
+        y: 2354
+        width: 74
+        height: 93
+      alignment: 9
+      pivot: {x: 0.71814686, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1338,12 +1338,12 @@ TextureImporter:
       name: Kirby_Jump_6
       rect:
         serializedVersion: 2
-        x: 585
-        y: 2352
-        width: 72
-        height: 58
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 586
+        y: 2354
+        width: 70
+        height: 55
+      alignment: 9
+      pivot: {x: 0.65941113, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1360,12 +1360,12 @@ TextureImporter:
       name: Kirby_Tumble_8
       rect:
         serializedVersion: 2
-        x: 695
-        y: 2344
-        width: 90
-        height: 62
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 697
+        y: 2345
+        width: 87
+        height: 59
+      alignment: 9
+      pivot: {x: 0.70167375, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1382,12 +1382,12 @@ TextureImporter:
       name: Kirby_Tumble_1
       rect:
         serializedVersion: 2
-        x: 793
-        y: 2344
-        width: 68
-        height: 86
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 794
+        y: 2345
+        width: 66
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62560946, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1404,12 +1404,12 @@ TextureImporter:
       name: Kirby_Tumble_2
       rect:
         serializedVersion: 2
-        x: 885
-        y: 2344
-        width: 61
-        height: 90
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 886
+        y: 2345
+        width: 59
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4168601, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1492,12 +1492,12 @@ TextureImporter:
       name: Kirby_Tumble_7
       rect:
         serializedVersion: 2
-        x: 701
-        y: 2248
-        width: 84
-        height: 68
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 702
+        y: 2249
+        width: 82
+        height: 66
+      alignment: 9
+      pivot: {x: 0.69383603, y: 0.27}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1514,12 +1514,12 @@ TextureImporter:
       name: Kirby_Tumble_3
       rect:
         serializedVersion: 2
-        x: 885
-        y: 2268
-        width: 84
-        height: 68
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 886
+        y: 2269
+        width: 82
+        height: 66
+      alignment: 9
+      pivot: {x: 0.28709847, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1602,12 +1602,12 @@ TextureImporter:
       name: Kirby_Float_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 2151
-        width: 90
-        height: 106
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 12
+        y: 2152
+        width: 88
+        height: 105
+      alignment: 9
+      pivot: {x: 0.65146357, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1624,12 +1624,12 @@ TextureImporter:
       name: Kirby_Float_2
       rect:
         serializedVersion: 2
-        x: 109
+        x: 110
         y: 2151
-        width: 93
-        height: 106
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6144689, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1646,12 +1646,12 @@ TextureImporter:
       name: Kirby_Float_3
       rect:
         serializedVersion: 2
-        x: 222
+        x: 223
         y: 2151
-        width: 97
-        height: 102
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 95
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7003861, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1668,12 +1668,12 @@ TextureImporter:
       name: Kirby_Float_4
       rect:
         serializedVersion: 2
-        x: 327
+        x: 328
         y: 2151
-        width: 101
-        height: 102
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 99
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6832411, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1690,12 +1690,12 @@ TextureImporter:
       name: Kirby_Float_5
       rect:
         serializedVersion: 2
-        x: 448
+        x: 450
         y: 2151
-        width: 91
-        height: 101
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 88
+        height: 100
+      alignment: 9
+      pivot: {x: 0.68578583, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1712,12 +1712,12 @@ TextureImporter:
       name: Kirby_Float_6
       rect:
         serializedVersion: 2
-        x: 545
+        x: 546
         y: 2151
-        width: 72
+        width: 70
         height: 94
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.7015651, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1734,12 +1734,12 @@ TextureImporter:
       name: Kirby_Tumble_6
       rect:
         serializedVersion: 2
-        x: 723
-        y: 2151
-        width: 62
-        height: 89
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 724
+        y: 2152
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.577493, y: 0.46}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1756,12 +1756,12 @@ TextureImporter:
       name: Kirby_Tumble_5
       rect:
         serializedVersion: 2
-        x: 812
-        y: 2152
-        width: 65
-        height: 88
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 813
+        y: 2153
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.35627255, y: 0.45}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1778,12 +1778,12 @@ TextureImporter:
       name: Kirby_Tumble_4
       rect:
         serializedVersion: 2
-        x: 885
-        y: 2179
-        width: 89
-        height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 886
+        y: 2180
+        width: 87
+        height: 59
+      alignment: 9
+      pivot: {x: 0.28106415, y: 0.21}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1888,12 +1888,12 @@ TextureImporter:
       name: Kirby_Guard_A1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1996
-        width: 56
-        height: 68
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 12
+        y: 1997
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 0.40620387, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1910,12 +1910,12 @@ TextureImporter:
       name: Kirby_Guard_A2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 1996
-        width: 56
-        height: 68
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 76
+        y: 1997
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4062039, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1932,12 +1932,12 @@ TextureImporter:
       name: Kirby_Guard_B1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 1996
-        width: 76
-        height: 76
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 140
+        y: 1997
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.65970594, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1954,12 +1954,12 @@ TextureImporter:
       name: Kirby_Guard_B2
       rect:
         serializedVersion: 2
-        x: 223
-        y: 1996
-        width: 76
-        height: 76
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 224
+        y: 1997
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6597059, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1976,10 +1976,10 @@ TextureImporter:
       name: Kirby_Climb_1
       rect:
         serializedVersion: 2
-        x: 319
-        y: 1996
-        width: 61
-        height: 88
+        x: 320
+        y: 1997
+        width: 60
+        height: 86
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1998,10 +1998,10 @@ TextureImporter:
       name: Kirby_Climb_2
       rect:
         serializedVersion: 2
-        x: 388
-        y: 2006
-        width: 59
-        height: 90
+        x: 390
+        y: 2008
+        width: 56
+        height: 87
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2020,10 +2020,10 @@ TextureImporter:
       name: Kirby_Climb_3
       rect:
         serializedVersion: 2
-        x: 455
-        y: 2004
-        width: 54
-        height: 96
+        x: 456
+        y: 2005
+        width: 52
+        height: 94
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2042,10 +2042,10 @@ TextureImporter:
       name: Kirby_Climb_4
       rect:
         serializedVersion: 2
-        x: 517
-        y: 1996
-        width: 52
-        height: 112
+        x: 518
+        y: 1997
+        width: 50
+        height: 110
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,12 +2064,12 @@ TextureImporter:
       name: Kirby_WarpStar_1
       rect:
         serializedVersion: 2
-        x: 589
-        y: 1994
-        width: 70
-        height: 57
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 1996
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7033548, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2086,12 +2086,12 @@ TextureImporter:
       name: Kirby_WarpStar_2
       rect:
         serializedVersion: 2
-        x: 667
-        y: 1996
-        width: 58
-        height: 55
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 668
+        y: 1997
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3496933, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2108,12 +2108,12 @@ TextureImporter:
       name: Kirby_Spin_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1900
-        width: 96
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 14
+        y: 1901
+        width: 94
+        height: 46
+      alignment: 9
+      pivot: {x: 0.75147516, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2130,12 +2130,12 @@ TextureImporter:
       name: Kirby_Spin_2
       rect:
         serializedVersion: 2
-        x: 195
-        y: 1900
-        width: 67
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 196
+        y: 1901
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.70630574, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2152,12 +2152,12 @@ TextureImporter:
       name: Kirby_Spin_3
       rect:
         serializedVersion: 2
-        x: 371
-        y: 1900
-        width: 60
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 372
+        y: 1901
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 0.33844256, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2174,12 +2174,12 @@ TextureImporter:
       name: Kirby_Spin_4
       rect:
         serializedVersion: 2
-        x: 523
-        y: 1900
-        width: 96
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 524
+        y: 1901
+        width: 94
+        height: 46
+      alignment: 9
+      pivot: {x: 0.23946235, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2196,12 +2196,12 @@ TextureImporter:
       name: Kirby_Spin_5
       rect:
         serializedVersion: 2
-        x: 627
-        y: 1900
-        width: 96
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 628
+        y: 1901
+        width: 94
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7628031, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2219,11 +2219,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 816
-        y: 1900
-        width: 60
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 1901
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6982738, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2240,12 +2240,12 @@ TextureImporter:
       name: Kirby_Spin_7
       rect:
         serializedVersion: 2
-        x: 985
-        y: 1900
-        width: 65
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 986
+        y: 1901
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.31698608, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2262,12 +2262,12 @@ TextureImporter:
       name: Kirby_Spin_8
       rect:
         serializedVersion: 2
-        x: 1137
-        y: 1900
-        width: 96
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1138
+        y: 1901
+        width: 94
+        height: 46
+      alignment: 9
+      pivot: {x: 0.24399388, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2284,12 +2284,12 @@ TextureImporter:
       name: Kirby_Ouch_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1755
-        width: 88
-        height: 69
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 12
+        y: 1757
+        width: 86
+        height: 66
+      alignment: 9
+      pivot: {x: 0.29844886, y: 0.30790943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2306,12 +2306,12 @@ TextureImporter:
       name: Kirby_Ouch_2
       rect:
         serializedVersion: 2
-        x: 107
-        y: 1755
-        width: 100
-        height: 67
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 108
+        y: 1757
+        width: 98
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75615865, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2328,12 +2328,12 @@ TextureImporter:
       name: Kirby_Ouch_3
       rect:
         serializedVersion: 2
-        x: 215
-        y: 1755
-        width: 100
-        height: 59
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 216
+        y: 1757
+        width: 98
+        height: 56
+      alignment: 9
+      pivot: {x: 0.75209266, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2350,12 +2350,12 @@ TextureImporter:
       name: Kirby_Ouch_4
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1755
-        width: 88
-        height: 79
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 322
+        y: 1757
+        width: 86
+        height: 76
+      alignment: 9
+      pivot: {x: 0.71313477, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2372,12 +2372,12 @@ TextureImporter:
       name: Kirby_Ouch_5
       rect:
         serializedVersion: 2
-        x: 416
-        y: 1755
-        width: 81
-        height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 418
+        y: 1757
+        width: 78
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7043434, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2394,12 +2394,12 @@ TextureImporter:
       name: Kirby_Ouch_6
       rect:
         serializedVersion: 2
-        x: 505
-        y: 1755
-        width: 94
-        height: 53
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 506
+        y: 1757
+        width: 92
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7252224, y: 0.15540527}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2416,12 +2416,12 @@ TextureImporter:
       name: Kirby_Joy_1
       rect:
         serializedVersion: 2
-        x: 619
-        y: 1755
-        width: 64
-        height: 75
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 620
+        y: 1757
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.39074314, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2438,12 +2438,12 @@ TextureImporter:
       name: Kirby_Joy_2
       rect:
         serializedVersion: 2
-        x: 691
-        y: 1755
-        width: 62
-        height: 97
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 692
+        y: 1757
+        width: 60
+        height: 94
+      alignment: 9
+      pivot: {x: 0.41366577, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2460,12 +2460,12 @@ TextureImporter:
       name: Kirby_HSwing_1
       rect:
         serializedVersion: 2
-        x: 15
+        x: 16
         y: 1593
-        width: 92
-        height: 81
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7535876, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2484,10 +2484,10 @@ TextureImporter:
         serializedVersion: 2
         x: 222
         y: 1593
-        width: 80
+        width: 78
         height: 94
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.71933335, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2504,10 +2504,10 @@ TextureImporter:
       name: Kirby_HSwing_4
       rect:
         serializedVersion: 2
-        x: 633
+        x: 634
         y: 1593
-        width: 46
-        height: 105
+        width: 44
+        height: 104
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2526,12 +2526,12 @@ TextureImporter:
       name: Kirby_HSwing_5
       rect:
         serializedVersion: 2
-        x: 825
-        y: 1593
-        width: 80
-        height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 826
+        y: 1594
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.26750457, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2548,12 +2548,12 @@ TextureImporter:
       name: Kirby_HSwing_6
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 1592
-        width: 96
-        height: 79
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1020
+        y: 1594
+        width: 93
+        height: 76
+      alignment: 9
+      pivot: {x: 0.23219086, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2570,12 +2570,12 @@ TextureImporter:
       name: Kirby_HSwing_3
       rect:
         serializedVersion: 2
-        x: 427
+        x: 428
         y: 1593
-        width: 66
-        height: 107
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 64
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6609988, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2594,10 +2594,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1215
         y: 1577
-        width: 101
+        width: 100
         height: 66
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.2321909, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2614,12 +2614,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_1
       rect:
         serializedVersion: 2
-        x: 49
+        x: 50
         y: 1370
-        width: 113
+        width: 111
         height: 98
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.2321909, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2636,12 +2636,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_2
       rect:
         serializedVersion: 2
-        x: 243
+        x: 244
         y: 1370
-        width: 117
+        width: 115
         height: 98
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.2321909, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2658,12 +2658,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_3
       rect:
         serializedVersion: 2
-        x: 436
+        x: 438
         y: 1370
-        width: 122
+        width: 120
         height: 77
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.18235931, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2680,12 +2680,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_4
       rect:
         serializedVersion: 2
-        x: 631
+        x: 632
         y: 1370
-        width: 126
+        width: 125
         height: 83
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.1823593, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2702,12 +2702,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_5
       rect:
         serializedVersion: 2
-        x: 825
-        y: 1374
-        width: 132
-        height: 80
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 826
+        y: 1375
+        width: 131
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1823593, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2724,12 +2724,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_6
       rect:
         serializedVersion: 2
-        x: 1018
-        y: 1374
-        width: 139
-        height: 84
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1020
+        y: 1375
+        width: 137
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1823593, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2746,12 +2746,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_7
       rect:
         serializedVersion: 2
-        x: 1213
-        y: 1374
-        width: 144
-        height: 89
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1214
+        y: 1375
+        width: 143
+        height: 87
+      alignment: 9
+      pivot: {x: 0.1500466, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2768,12 +2768,12 @@ TextureImporter:
       name: Kirby_HSwing_Hit_8
       rect:
         serializedVersion: 2
-        x: 1407
-        y: 1374
-        width: 148
-        height: 91
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1408
+        y: 1375
+        width: 147
+        height: 90
+      alignment: 9
+      pivot: {x: 0.1500466, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2790,10 +2790,10 @@ TextureImporter:
       name: Kirby_HSwing_Miss_1
       rect:
         serializedVersion: 2
-        x: 49
-        y: 1141
-        width: 48
-        height: 95
+        x: 50
+        y: 1142
+        width: 46
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2813,11 +2813,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 218
-        y: 1161
-        width: 73
-        height: 71
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 1162
+        width: 72
+        height: 69
+      alignment: 9
+      pivot: {x: 0.70403165, y: 0.37358293}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2834,12 +2834,12 @@ TextureImporter:
       name: Kirby_HSwing_Miss_3
       rect:
         serializedVersion: 2
-        x: 399
-        y: 1185
-        width: 86
-        height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 400
+        y: 1186
+        width: 84
+        height: 47
+      alignment: 9
+      pivot: {x: 0.73097885, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2856,12 +2856,12 @@ TextureImporter:
       name: Kirby_HSwing_Miss_4
       rect:
         serializedVersion: 2
-        x: 605
-        y: 1185
-        width: 76
-        height: 63
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 606
+        y: 1187
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.71724474, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2879,11 +2879,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 836
-        y: 984
-        width: 82
-        height: 73
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 985
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.27303964, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2900,10 +2900,10 @@ TextureImporter:
       name: Kirby_HFlip_6
       rect:
         serializedVersion: 2
-        x: 1021
+        x: 1022
         y: 984
-        width: 49
-        height: 95
+        width: 48
+        height: 94
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2966,12 +2966,12 @@ TextureImporter:
       name: Kirby_HFlip_1
       rect:
         serializedVersion: 2
-        x: 23
-        y: 984
-        width: 76
-        height: 63
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 24
+        y: 985
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7172447, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2989,11 +2989,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 206
-        y: 984
-        width: 85
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 985
+        width: 84
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7309788, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3011,11 +3011,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 412
-        y: 969
+        y: 970
         width: 106
-        height: 62
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 60
+      alignment: 9
+      pivot: {x: 0.42872676, y: 0.20986328}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3032,12 +3032,12 @@ TextureImporter:
       name: Kirby_HFlip_4
       rect:
         serializedVersion: 2
-        x: 618
-        y: 984
-        width: 89
-        height: 56
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 619
+        y: 985
+        width: 88
+        height: 54
+      alignment: 9
+      pivot: {x: 0.25102788, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3164,12 +3164,12 @@ TextureImporter:
       name: Kirby_HSpin_1
       rect:
         serializedVersion: 2
-        x: 69
-        y: 842
-        width: 50
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 70
+        y: 843
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42901006, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3186,12 +3186,12 @@ TextureImporter:
       name: Kirby_HSpin_2
       rect:
         serializedVersion: 2
-        x: 235
-        y: 842
-        width: 73
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 236
+        y: 843
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.26336798, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3208,12 +3208,12 @@ TextureImporter:
       name: Kirby_HSpin_3
       rect:
         serializedVersion: 2
-        x: 400
-        y: 842
-        width: 97
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 402
+        y: 843
+        width: 94
+        height: 47
+      alignment: 9
+      pivot: {x: 0.22812507, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3230,12 +3230,12 @@ TextureImporter:
       name: Kirby_HSpin_4
       rect:
         serializedVersion: 2
-        x: 567
-        y: 842
-        width: 99
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 568
+        y: 843
+        width: 98
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2281251, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3252,12 +3252,12 @@ TextureImporter:
       name: Kirby_HSpin_5
       rect:
         serializedVersion: 2
-        x: 733
-        y: 842
-        width: 56
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 734
+        y: 843
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4008405, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3274,12 +3274,12 @@ TextureImporter:
       name: Kirby_HSpin_6
       rect:
         serializedVersion: 2
-        x: 885
-        y: 842
-        width: 57
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 886
+        y: 843
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.62123, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3296,12 +3296,12 @@ TextureImporter:
       name: Kirby_HSpin_7
       rect:
         serializedVersion: 2
-        x: 1029
-        y: 842
-        width: 80
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1030
+        y: 843
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.71920544, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3318,12 +3318,12 @@ TextureImporter:
       name: Kirby_HSpin_8
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 842
-        width: 102
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1174
+        y: 843
+        width: 100
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7866431, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3340,12 +3340,12 @@ TextureImporter:
       name: Kirby_HSpin_9
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 842
-        width: 73
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1370
+        y: 843
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: 0.711928, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3758,12 +3758,12 @@ TextureImporter:
       name: Kirby_HSpin_Stop_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 493
-        width: 76
-        height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7233596, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3780,12 +3780,12 @@ TextureImporter:
       name: Kirby_HSpin_Stop_2
       rect:
         serializedVersion: 2
-        x: 203
+        x: 204
         y: 493
-        width: 76
-        height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7233596, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
