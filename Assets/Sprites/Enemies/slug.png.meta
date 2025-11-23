@@ -151,12 +151,12 @@ TextureImporter:
       name: slug_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 6
         y: 0
-        width: 24
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: slug_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 0
-        width: 24
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: slug_2
       rect:
         serializedVersion: 2
-        x: 67
+        x: 68
         y: 0
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: slug_3
       rect:
         serializedVersion: 2
-        x: 97
+        x: 98
         y: 0
-        width: 29
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,7 +239,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4fde1687d91341146a68e5d348008024
     internalID: 0
     vertices: []
     indices: 
@@ -247,7 +247,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       slug_0: 8116646344494371291
       slug_1: -2158135560998108905

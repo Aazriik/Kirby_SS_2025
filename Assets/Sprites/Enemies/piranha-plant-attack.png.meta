@@ -151,12 +151,12 @@ TextureImporter:
       name: piranha-plant-attack_0
       rect:
         serializedVersion: 2
-        x: 18
+        x: 19
         y: 0
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: piranha-plant-attack_1
       rect:
         serializedVersion: 2
-        x: 81
+        x: 82
         y: 0
-        width: 24
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: piranha-plant-attack_2
       rect:
         serializedVersion: 2
-        x: 143
+        x: 144
         y: 0
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: piranha-plant-attack_3
       rect:
         serializedVersion: 2
-        x: 183
+        x: 184
         y: 0
-        width: 43
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,7 +239,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b3ce69c8fa9101c42846f5421e29763c
     internalID: 0
     vertices: []
     indices: 
@@ -247,7 +247,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       piranha-plant-attack_0: 2926983400000043848
       piranha-plant-attack_1: 3893219062792917938
