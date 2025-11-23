@@ -81,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 46795235
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: -7879796935640485982, guid: 29506324697746a4d93937ca61dd6d08, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -142,6 +142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimplePickups
   pickupType: 2
+  spawnOffset: {x: 0, y: 0.3, z: 0}
 --- !u!95 &6690777336993009744
 Animator:
   serializedVersion: 7

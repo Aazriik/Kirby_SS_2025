@@ -1,5 +1,6 @@
 // Libraries
 using UnityEngine;
+using System.Collections;
 
 public class SimplePickups: MonoBehaviour
 {
@@ -13,6 +14,35 @@ public class SimplePickups: MonoBehaviour
 
     // Type of this pickup
     public PickupType pickupType;
+
+    // Spawn position offset
+    public Vector3 spawnOffset = new Vector3(0, 0.3f, 0);
+
+    void Start()
+    {
+        // Adjust the spawn position based on the offset
+        transform.position += spawnOffset;
+
+        // Disable the collider initially
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null)
+        {
+            col.enabled = false;
+            // Enable the collider after 1 seconds
+            StartCoroutine(EnableColliderAfterDelay(1f));
+        }
+    }
+
+    private IEnumerator EnableColliderAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null)
+        {
+            col.enabled = true;
+        }
+    }
+
 
     // Called when another collider enters the trigger collider attached to this object
     private void OnTriggerEnter2D(Collider2D collision)
