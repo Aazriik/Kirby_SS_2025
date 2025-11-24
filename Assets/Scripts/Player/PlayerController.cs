@@ -140,7 +140,7 @@ public class PlayerController : MonoBehaviour
             yield return null;
         }
 
-        jumpForce = 7;
+        jumpForce = 6;
         jumpForceCoroutine = null;
         jumpPowerupTimer = 0;
     }
