@@ -112,7 +112,7 @@ MonoBehaviour:
   maxLives: 5
   moveSpeed: 5
   initalPowerUpTimer: 5
-  jumpForce: 7
+  jumpForce: 6
   groundCheckRadius: 0.2
 --- !u!114 &6125166197527787198
 MonoBehaviour:

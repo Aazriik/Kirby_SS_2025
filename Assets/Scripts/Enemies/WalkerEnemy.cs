@@ -25,7 +25,7 @@ public class WalkerEnemy: BaseEnemy
         if (stateInfo.IsName("Walk"))
         {
             //equavalent to the if else statement below - this is using the ternary operator (?)
-            rb.linearVelocityX = (sr.flipX) ? -xVelocity : xVelocity;
+            rb.linearVelocityX = (sr.flipX) ? xVelocity : -xVelocity;
 
             //if (sr.flipX) rb.linearVelocityX = -xVelocity;
             //else rb.linearVelocityX = xVelocity;
@@ -49,7 +49,7 @@ public class WalkerEnemy: BaseEnemy
     {
         if (collision.CompareTag("Barrier"))
         {
-            anim.SetTrigger("Turn");
+            //anim.SetTrigger("Turn");
             sr.flipX = !sr.flipX;
         }
     }
