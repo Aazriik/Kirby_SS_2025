@@ -62,6 +62,50 @@ public class Shoot: MonoBehaviour
             // Set its spin direction to counter-clockwise
             curProjectile.SetSpinDirection(true);
         }
+
+
+    }
+
+    public void FireLeft()
+    {
+        // Instantiate the projectile at the appropriate spawn point based on the sprite's facing direction
+        Projectile curProjectile;
+        
+        if (sr.flipX)
+        {
+            //// Instantiate projectile at left spawn point
+            //curProjectile = Instantiate(projectilePrefab, spawnPointLeft.position, Quaternion.identity);
+            //// Set its velocity to the negative initial shot velocity on the x-axis
+            //curProjectile.SetVelocity(new Vector2(-initialShotVelocity.x, initialShotVelocity.y));
+            //// Set its spin direction to counter-clockwise
+            //curProjectile.SetSpinDirection(true);
+
+            // Instantiate projectile at right spawn point
+            curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, Quaternion.identity);
+            // Set its velocity to the initial shot velocity
+            curProjectile.SetVelocity(initialShotVelocity);
+            // Set its spin direction to clockwise
+            curProjectile.SetSpinDirection(false);
+        }
+        
+        else
+        {
+            //// Instantiate projectile at right spawn point
+            //curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, Quaternion.identity);
+            //// Set its velocity to the initial shot velocity
+            //curProjectile.SetVelocity(initialShotVelocity);
+            //// Set its spin direction to clockwise
+            //curProjectile.SetSpinDirection(false);
+
+            // Instantiate projectile at left spawn point
+            curProjectile = Instantiate(projectilePrefab, spawnPointLeft.position, Quaternion.identity);
+            // Set its velocity to the negative initial shot velocity on the x-axis
+            curProjectile.SetVelocity(new Vector2(-initialShotVelocity.x, initialShotVelocity.y));
+            // Set its spin direction to counter-clockwise
+            curProjectile.SetSpinDirection(true);
+        }
+
+
     }
 
     // Update is called once per frame

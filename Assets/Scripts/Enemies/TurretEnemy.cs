@@ -41,7 +41,7 @@ public class TurretEnemy: BaseEnemy
             playerInRange = true;
 
             // Flip to the player's direction
-            if (collision.transform.position.x < transform.position.x)
+            if (collision.transform.position.x > transform.position.x)
                 sr.flipX = true;
             else
                 sr.flipX = false;

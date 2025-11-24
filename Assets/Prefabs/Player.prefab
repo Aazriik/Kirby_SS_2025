@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 6125166197527787198}
   - component: {fileID: 665211655307378740}
   - component: {fileID: 966088879729676770}
-  - component: {fileID: 4300407684367301919}
   - component: {fileID: 7108308770764013354}
   m_Layer: 6
   m_Name: Player
@@ -204,42 +203,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.74850273, y: 0.72978723}
   m_EdgeRadius: 0
---- !u!58 &4300407684367301919
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2919159999398383120}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: -0.011956692, y: 0.3747716}
-  m_Radius: 0.37735415
 --- !u!95 &7108308770764013354
 Animator:
   serializedVersion: 7
