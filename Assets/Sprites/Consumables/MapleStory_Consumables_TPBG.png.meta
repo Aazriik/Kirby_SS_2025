@@ -976,7 +976,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Item_Food_Watermelon
+      name: Watermelon
       rect:
         serializedVersion: 2
         x: 751
@@ -998,7 +998,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sundae
+      name: Sundae
       rect:
         serializedVersion: 2
         x: 856
@@ -1020,7 +1020,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Roast
+      name: Roast
       rect:
         serializedVersion: 2
         x: 113
@@ -1042,7 +1042,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Eggs
+      name: Eggs
       rect:
         serializedVersion: 2
         x: 167
@@ -1064,7 +1064,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Orange
+      name: Orange
       rect:
         serializedVersion: 2
         x: 223
@@ -1086,7 +1086,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Lemon
+      name: Lemon
       rect:
         serializedVersion: 2
         x: 277
@@ -1108,7 +1108,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_BeeHive
+      name: BeeHive
       rect:
         serializedVersion: 2
         x: 327
@@ -1130,7 +1130,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Honey
+      name: Honey
       rect:
         serializedVersion: 2
         x: 381
@@ -1152,7 +1152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Apple_Red
+      name: Apple_Red
       rect:
         serializedVersion: 2
         x: 435
@@ -1174,7 +1174,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Apple_Green
+      name: Apple_Green
       rect:
         serializedVersion: 2
         x: 488
@@ -1196,7 +1196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Mushroom_Purple
+      name: Mushroom_Purple
       rect:
         serializedVersion: 2
         x: 537
@@ -1218,7 +1218,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Salad
+      name: Salad
       rect:
         serializedVersion: 2
         x: 801
@@ -1240,7 +1240,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Roast_Chicken
+      name: Roast_Chicken
       rect:
         serializedVersion: 2
         x: 857
@@ -1262,7 +1262,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Vanilla
+      name: Cake_Vanilla
       rect:
         serializedVersion: 2
         x: 912
@@ -1284,7 +1284,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pizza_Slice
+      name: Pizza_Slice
       rect:
         serializedVersion: 2
         x: 963
@@ -1306,7 +1306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Burger
+      name: Burger
       rect:
         serializedVersion: 2
         x: 1016
@@ -1328,7 +1328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_HotDog
+      name: HotDog
       rect:
         serializedVersion: 2
         x: 59
@@ -1350,7 +1350,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Squid
+      name: Squid
       rect:
         serializedVersion: 2
         x: 111
@@ -1372,7 +1372,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Juice_Orange
+      name: Orange_Juice
       rect:
         serializedVersion: 2
         x: 226
@@ -1394,7 +1394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Juice_Apple
+      name: Apple_Juice
       rect:
         serializedVersion: 2
         x: 279
@@ -1416,7 +1416,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Noodles_Spicy
+      name: Noodles_Spicy
       rect:
         serializedVersion: 2
         x: 324
@@ -1438,7 +1438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cheese_Parm
+      name: Cheese_Parm
       rect:
         serializedVersion: 2
         x: 380
@@ -1460,7 +1460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Cheese
+      name: Cake_Cheese
       rect:
         serializedVersion: 2
         x: 589
@@ -1482,7 +1482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Strawberry
+      name: Cake_Strawberry
       rect:
         serializedVersion: 2
         x: 642
@@ -1504,7 +1504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Smores
+      name: Cake_Smores
       rect:
         serializedVersion: 2
         x: 695
@@ -1526,7 +1526,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Coconut
+      name: Cake_Coconut
       rect:
         serializedVersion: 2
         x: 748
@@ -1548,7 +1548,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Neopolotan
+      name: Cake_Neopolotan
       rect:
         serializedVersion: 2
         x: 801
@@ -1570,7 +1570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_BentoBox_1
+      name: BentoBox_1
       rect:
         serializedVersion: 2
         x: 854
@@ -1592,7 +1592,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Chocolate_Heart
+      name: Chocolate_Heart
       rect:
         serializedVersion: 2
         x: 906
@@ -1614,7 +1614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Easter_Basket_1
+      name: Easter_Basket_1
       rect:
         serializedVersion: 2
         x: 961
@@ -1636,7 +1636,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pineapple_Stick
+      name: Pineapple_Stick
       rect:
         serializedVersion: 2
         x: 1012
@@ -1658,7 +1658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Easter_Basket_2
+      name: Easter_Basket_2
       rect:
         serializedVersion: 2
         x: 60
@@ -1680,7 +1680,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Chocolate_Bar
+      name: Chocolate_Bar
       rect:
         serializedVersion: 2
         x: 113
@@ -1702,7 +1702,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Corn
+      name: Corn
       rect:
         serializedVersion: 2
         x: 162
@@ -1724,7 +1724,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Roast_Turkey
+      name: Roast_Turkey
       rect:
         serializedVersion: 2
         x: 220
@@ -1746,7 +1746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Coke_Bottle
+      name: Coke_Bottle
       rect:
         serializedVersion: 2
         x: 271
@@ -1768,7 +1768,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Slice
+      name: Cake_Slice
       rect:
         serializedVersion: 2
         x: 329
@@ -1790,7 +1790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Water
+      name: Water
       rect:
         serializedVersion: 2
         x: 385
@@ -1812,7 +1812,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Coffe
+      name: Coffe
       rect:
         serializedVersion: 2
         x: 435
@@ -1834,7 +1834,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Ramane
+      name: Ramane
       rect:
         serializedVersion: 2
         x: 492
@@ -1856,7 +1856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_1
+      name: Sushi_1
       rect:
         serializedVersion: 2
         x: 536
@@ -1878,7 +1878,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_2
+      name: Sushi_2
       rect:
         serializedVersion: 2
         x: 591
@@ -1900,7 +1900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_3
+      name: Sushi_3
       rect:
         serializedVersion: 2
         x: 642
@@ -1922,7 +1922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_4
+      name: Sushi_4
       rect:
         serializedVersion: 2
         x: 696
@@ -1944,7 +1944,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_5
+      name: Sushi_5
       rect:
         serializedVersion: 2
         x: 752
@@ -1966,7 +1966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_6
+      name: Sushi_6
       rect:
         serializedVersion: 2
         x: 801
@@ -1988,7 +1988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_7
+      name: Sushi_7
       rect:
         serializedVersion: 2
         x: 854
@@ -2010,7 +2010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sushi_8
+      name: Sushi_8
       rect:
         serializedVersion: 2
         x: 906
@@ -2032,7 +2032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_1
+      name: Raman_1
       rect:
         serializedVersion: 2
         x: 959
@@ -2054,7 +2054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_BentoBox_2
+      name: BentoBox_2
       rect:
         serializedVersion: 2
         x: 1012
@@ -2076,7 +2076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_2
+      name: Raman_2
       rect:
         serializedVersion: 2
         x: 58
@@ -2098,7 +2098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_3
+      name: Raman_3
       rect:
         serializedVersion: 2
         x: 111
@@ -2120,7 +2120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_4
+      name: Raman_4
       rect:
         serializedVersion: 2
         x: 164
@@ -2142,7 +2142,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_4
+      name: Misc_4
       rect:
         serializedVersion: 2
         x: 271
@@ -2164,7 +2164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_5
+      name: Misc_5
       rect:
         serializedVersion: 2
         x: 323
@@ -2186,7 +2186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_6
+      name: Misc_6
       rect:
         serializedVersion: 2
         x: 376
@@ -2208,7 +2208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_7
+      name: Misc_7
       rect:
         serializedVersion: 2
         x: 431
@@ -2230,7 +2230,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_8
+      name: Misc_8
       rect:
         serializedVersion: 2
         x: 482
@@ -2252,7 +2252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_9
+      name: Misc_9
       rect:
         serializedVersion: 2
         x: 535
@@ -2274,7 +2274,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pepsi_Can
+      name: Pepsi_Can
       rect:
         serializedVersion: 2
         x: 912
@@ -2296,7 +2296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_BreadedShrimp
+      name: BreadedShrimp
       rect:
         serializedVersion: 2
         x: 115
@@ -2318,7 +2318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Lobster
+      name: Lobster
       rect:
         serializedVersion: 2
         x: 270
@@ -2340,7 +2340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_5
+      name: Raman_5
       rect:
         serializedVersion: 2
         x: 325
@@ -2362,7 +2362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Crab
+      name: Crab
       rect:
         serializedVersion: 2
         x: 377
@@ -2384,7 +2384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sandwhich_2
+      name: Sandwhich_2
       rect:
         serializedVersion: 2
         x: 429
@@ -2406,7 +2406,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Tofu
+      name: Tofu
       rect:
         serializedVersion: 2
         x: 482
@@ -2428,7 +2428,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Tangerines
+      name: Tangerines
       rect:
         serializedVersion: 2
         x: 695
@@ -2450,7 +2450,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Dumplings
+      name: Dumplings
       rect:
         serializedVersion: 2
         x: 854
@@ -2472,7 +2472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Roasted_Corn
+      name: Roasted_Corn
       rect:
         serializedVersion: 2
         x: 959
@@ -2494,7 +2494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Juice_Pineapple
+      name: Pineapple_Juice
       rect:
         serializedVersion: 2
         x: 121
@@ -2516,7 +2516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Coke_Can
+      name: Coke_Can
       rect:
         serializedVersion: 2
         x: 380
@@ -2538,7 +2538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Steak_2
+      name: Steak_2
       rect:
         serializedVersion: 2
         x: 588
@@ -2560,7 +2560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Strawberry
+      name: Strawberry
       rect:
         serializedVersion: 2
         x: 642
@@ -2582,7 +2582,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Blackberry
+      name: Blackberry
       rect:
         serializedVersion: 2
         x: 695
@@ -2604,7 +2604,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Blueberry
+      name: Blueberry
       rect:
         serializedVersion: 2
         x: 748
@@ -2626,7 +2626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Porkchop
+      name: Porkchop
       rect:
         serializedVersion: 2
         x: 908
@@ -2648,7 +2648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_1
+      name: Misc_1
       rect:
         serializedVersion: 2
         x: 958
@@ -2670,7 +2670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Waffles_2
+      name: Waffles_2
       rect:
         serializedVersion: 2
         x: 58
@@ -2692,7 +2692,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Lollipop_1
+      name: Lollipop_1
       rect:
         serializedVersion: 2
         x: 217
@@ -2714,7 +2714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Lollipop_2
+      name: Lollipop_2
       rect:
         serializedVersion: 2
         x: 270
@@ -2736,7 +2736,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Lollipop_3
+      name: Lollipop_3
       rect:
         serializedVersion: 2
         x: 323
@@ -2758,7 +2758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pie_Slice
+      name: Pie_Slice
       rect:
         serializedVersion: 2
         x: 431
@@ -2780,7 +2780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Peach
+      name: Peach
       rect:
         serializedVersion: 2
         x: 486
@@ -2802,7 +2802,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Melon_1
+      name: Melon_1
       rect:
         serializedVersion: 2
         x: 590
@@ -2824,7 +2824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pie_1
+      name: Pie_1
       rect:
         serializedVersion: 2
         x: 696
@@ -2846,7 +2846,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Juice_Peach
+      name: Peach_Juice
       rect:
         serializedVersion: 2
         x: 67
@@ -2868,7 +2868,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Soup_1
+      name: Soup_1
       rect:
         serializedVersion: 2
         x: 113
@@ -2890,7 +2890,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Cake_Birthday
+      name: Cake_Birthday
       rect:
         serializedVersion: 2
         x: 325
@@ -2912,7 +2912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Raman_6
+      name: Raman_6
       rect:
         serializedVersion: 2
         x: 483
@@ -2934,7 +2934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Steak_1
+      name: Steak_1
       rect:
         serializedVersion: 2
         x: 482
@@ -2956,7 +2956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Pizza
+      name: Pizza
       rect:
         serializedVersion: 2
         x: 746
@@ -2978,7 +2978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Waffles
+      name: Waffles
       rect:
         serializedVersion: 2
         x: 803
@@ -3000,7 +3000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Sandwhich_1
+      name: Sandwhich_1
       rect:
         serializedVersion: 2
         x: 379
@@ -3022,7 +3022,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Spicy_Candy
+      name: Spicy_Candy
       rect:
         serializedVersion: 2
         x: 431
@@ -3044,7 +3044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Candy_1
+      name: Candy_1
       rect:
         serializedVersion: 2
         x: 490
@@ -3066,7 +3066,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Slime_1
+      name: Slime_1
       rect:
         serializedVersion: 2
         x: 537
@@ -3088,7 +3088,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Slime_2
+      name: Slime_2
       rect:
         serializedVersion: 2
         x: 590
@@ -3110,7 +3110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Slime_3
+      name: Slime_3
       rect:
         serializedVersion: 2
         x: 643
@@ -3132,7 +3132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Slime_4
+      name: Slime_4
       rect:
         serializedVersion: 2
         x: 696
@@ -3154,7 +3154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Maple_Stick
+      name: Maple_Stick
       rect:
         serializedVersion: 2
         x: 752
@@ -3176,7 +3176,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Mashed_Potatoes
+      name: Mashed_Potatoes
       rect:
         serializedVersion: 2
         x: 851
@@ -3198,7 +3198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Baked_Potatoe
+      name: Baked_Potatoe
       rect:
         serializedVersion: 2
         x: 960
@@ -3220,7 +3220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Gravy
+      name: Gravy
       rect:
         serializedVersion: 2
         x: 1011
@@ -3242,7 +3242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_3
+      name: Misc_3
       rect:
         serializedVersion: 2
         x: 57
@@ -3264,7 +3264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Misc_2
+      name: Misc_2
       rect:
         serializedVersion: 2
         x: 111
@@ -3286,7 +3286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Stinky_Cheese
+      name: Stinky_Cheese
       rect:
         serializedVersion: 2
         x: 165
@@ -3308,7 +3308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_CandyApple
+      name: CandyApple
       rect:
         serializedVersion: 2
         x: 270
@@ -3330,7 +3330,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Food_Waffles_3
+      name: Waffles_3
       rect:
         serializedVersion: 2
         x: 325
@@ -3367,119 +3367,52 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Item_Food_Apple_Green: 5425054289366001690
-      Item_Food_Apple_Red: 173643374442992008
-      Item_Food_Baked_Potatoe: 1956379844008902335
-      Item_Food_BeeHive: 3251677759933386673
-      Item_Food_BentoBox_1: 922088673006483559
-      Item_Food_BentoBox_2: -7210565796372552825
-      Item_Food_Blackberry: 6569017846679371050
-      Item_Food_Blueberry: 8613486552477679224
-      Item_Food_BreadedShrimp: 6295873093605008946
-      Item_Food_Burger: -2474949644932716343
-      Item_Food_Cake_Birthday: 676882747112862238
-      Item_Food_Cake_Cheese: 2266819081225090406
-      Item_Food_Cake_Coconut: 4676347221151984673
-      Item_Food_Cake_Neopolotan: 1157939660584597340
-      Item_Food_Cake_Slice: -3225205288270886546
-      Item_Food_Cake_Smores: -2589199030744701089
-      Item_Food_Cake_Strawberry: 2078147564258498246
-      Item_Food_Cake_Vanilla: 4458672029324575168
-      Item_Food_CandyApple: 2655736345111524385
-      Item_Food_Candy_1: -917814634889750659
-      Item_Food_Cheese_Parm: -4760559471243491999
-      Item_Food_Chocolate_Bar: 6956683849334605572
-      Item_Food_Chocolate_Heart: -8592797940627203548
-      Item_Food_Coffe: -4876462282428414954
-      Item_Food_Coke_Bottle: 978110523268752141
-      Item_Food_Coke_Can: 2033297543162764128
-      Item_Food_Corn: 259967502064948772
-      Item_Food_Crab: 3179119063585961295
-      Item_Food_Dumplings: -8922814847788591937
-      Item_Food_Easter_Basket_1: 8732335712158460910
-      Item_Food_Easter_Basket_2: 2831849868863531818
-      Item_Food_Eggs: -1967390105420739244
-      Item_Food_Gravy: -1101935633361322191
-      Item_Food_Honey: -9090532630629318432
-      Item_Food_HotDog: 2241777392594582945
-      Item_Food_Juice_Apple: 3002218455914496709
-      Item_Food_Juice_Orange: -2002505602156194842
-      Item_Food_Juice_Peach: -5733155060114058016
-      Item_Food_Juice_Pineapple: 5507544121711838288
-      Item_Food_Lemon: -1294328237077733159
-      Item_Food_Lobster: -2789441590765395224
-      Item_Food_Lollipop_1: 6761448924818198516
-      Item_Food_Lollipop_2: -7196710859052876575
-      Item_Food_Lollipop_3: 358291918670710346
-      Item_Food_Maple_Stick: 4850198372803864268
-      Item_Food_Mashed_Potatoes: 7245140743591247971
-      Item_Food_Melon_1: -6162551277871149596
-      Item_Food_Misc_1: 7132326282839812181
-      Item_Food_Misc_2: -5864661143197168000
-      Item_Food_Misc_3: -6786616714733653160
-      Item_Food_Misc_4: 8502375623083475908
-      Item_Food_Misc_5: -1289005858176244387
-      Item_Food_Misc_6: 8223486865701737435
-      Item_Food_Misc_7: 2578930931713149715
-      Item_Food_Misc_8: 4231673783001744790
-      Item_Food_Misc_9: 9138227508292793038
-      Item_Food_Mushroom_Purple: 3117607938161827847
-      Item_Food_Noodles_Spicy: -2305152735089623769
-      Item_Food_Orange: 3665034983626139379
-      Item_Food_Peach: 8421694993761958632
-      Item_Food_Pepsi_Can: -7078457565371752194
-      Item_Food_Pie_1: -7496090686800181404
-      Item_Food_Pie_Slice: 3299073927213737864
-      Item_Food_Pineapple_Stick: 5382237689418927051
-      Item_Food_Pizza: -4523464438633851664
-      Item_Food_Pizza_Slice: -5366835319886614576
-      Item_Food_Porkchop: -4432313496297234222
-      Item_Food_Raman_1: -183551043311531372
-      Item_Food_Raman_2: -7175280998618814143
-      Item_Food_Raman_3: 3661109370939150105
-      Item_Food_Raman_4: -1964197495123791959
-      Item_Food_Raman_5: 1001683292073977363
-      Item_Food_Raman_6: -1349528106400152575
-      Item_Food_Ramane: -8760623655935971194
-      Item_Food_Roast: -7388041852898521084
-      Item_Food_Roast_Chicken: 166983919563068348
-      Item_Food_Roast_Turkey: 5639559720286490275
-      Item_Food_Roasted_Corn: -4187525496588347769
-      Item_Food_Salad: 5875734527561939795
-      Item_Food_Sandwhich_1: -6849723491996147687
-      Item_Food_Sandwhich_2: -7635407945715351904
-      Item_Food_Slime_1: -8703536623329933655
-      Item_Food_Slime_2: -758145067380216192
-      Item_Food_Slime_3: 5924189508257665532
-      Item_Food_Slime_4: 7927344037010607845
-      Item_Food_Soup_1: -299006227118454939
-      Item_Food_Spicy_Candy: -3520607596010894973
-      Item_Food_Squid: -3107013554476757378
-      Item_Food_Steak_1: 448648371991456780
-      Item_Food_Steak_2: -6759279979677682529
-      Item_Food_Stinky_Cheese: -82827110082576654
-      Item_Food_Strawberry: 12535669208037087
-      Item_Food_Sundae: -5620523070182736140
-      Item_Food_Sushi_1: 2706620379538883871
-      Item_Food_Sushi_2: 7164258700898316396
-      Item_Food_Sushi_3: -8536737322291226563
-      Item_Food_Sushi_4: -785127959111278725
-      Item_Food_Sushi_5: -9198591624297145407
-      Item_Food_Sushi_6: -7724376553801721704
-      Item_Food_Sushi_7: 7064938996159511306
-      Item_Food_Sushi_8: 4780946884239326524
-      Item_Food_Tangerines: 2132658338093854891
-      Item_Food_Tofu: 6481241269162971310
-      Item_Food_Waffles: -879118665557176174
-      Item_Food_Waffles_2: -6764436843263163655
-      Item_Food_Waffles_3: 7178665429130228727
-      Item_Food_Water: -5936395358162684043
-      Item_Food_Watermelon: -1889200443201364882
+      Apple_Green: 5425054289366001690
+      Apple_Juice: 3002218455914496709
+      Apple_Red: 173643374442992008
+      Baked_Potatoe: 1956379844008902335
+      BeeHive: 3251677759933386673
+      BentoBox_1: 922088673006483559
+      BentoBox_2: -7210565796372552825
+      Blackberry: 6569017846679371050
+      Blueberry: 8613486552477679224
+      BreadedShrimp: 6295873093605008946
+      Burger: -2474949644932716343
+      Cake_Birthday: 676882747112862238
+      Cake_Cheese: 2266819081225090406
+      Cake_Coconut: 4676347221151984673
+      Cake_Neopolotan: 1157939660584597340
+      Cake_Slice: -3225205288270886546
+      Cake_Smores: -2589199030744701089
+      Cake_Strawberry: 2078147564258498246
+      Cake_Vanilla: 4458672029324575168
+      CandyApple: 2655736345111524385
+      Candy_1: -917814634889750659
+      Cheese_Parm: -4760559471243491999
+      Chocolate_Bar: 6956683849334605572
+      Chocolate_Heart: -8592797940627203548
+      Coffe: -4876462282428414954
+      Coke_Bottle: 978110523268752141
+      Coke_Can: 2033297543162764128
+      Corn: 259967502064948772
+      Crab: 3179119063585961295
+      Dumplings: -8922814847788591937
+      Easter_Basket_1: 8732335712158460910
+      Easter_Basket_2: 2831849868863531818
+      Eggs: -1967390105420739244
+      Gravy: -1101935633361322191
+      Honey: -9090532630629318432
+      HotDog: 2241777392594582945
       Item_Potion_Health_10: 918492973373193429
       Item_Potion_Health_100: 3023567953106642360
       Item_Potion_Health_50: 4648065322445251866
       Item_Potion_Mana_100: -5392020827520056978
       Item_Potion_Mana_50: -8006978470027388336
+      Lemon: -1294328237077733159
+      Lobster: -2789441590765395224
+      Lollipop_1: 6761448924818198516
+      Lollipop_2: -7196710859052876575
+      Lollipop_3: 358291918670710346
       MapleStory_Consumables_TPBG_10: 550332306407085718
       MapleStory_Consumables_TPBG_106: 4510556686294831503
       MapleStory_Consumables_TPBG_107: 2142122602685354438
@@ -3646,6 +3579,73 @@ TextureImporter:
       MapleStory_Consumables_TPBG_9: -1956565887327846748
       MapleStory_Consumables_TPBG_95: -1316332543149090952
       MapleStory_Consumables_TPBG_99: -1312477748025073718
+      Maple_Stick: 4850198372803864268
+      Mashed_Potatoes: 7245140743591247971
+      Melon_1: -6162551277871149596
+      Misc_1: 7132326282839812181
+      Misc_2: -5864661143197168000
+      Misc_3: -6786616714733653160
+      Misc_4: 8502375623083475908
+      Misc_5: -1289005858176244387
+      Misc_6: 8223486865701737435
+      Misc_7: 2578930931713149715
+      Misc_8: 4231673783001744790
+      Misc_9: 9138227508292793038
+      Mushroom_Purple: 3117607938161827847
+      Noodles_Spicy: -2305152735089623769
+      Orange: 3665034983626139379
+      Orange_Juice: -2002505602156194842
+      Peach: 8421694993761958632
+      Peach_Juice: -5733155060114058016
+      Pepsi_Can: -7078457565371752194
+      Pie_1: -7496090686800181404
+      Pie_Slice: 3299073927213737864
+      Pineapple_Juice: 5507544121711838288
+      Pineapple_Stick: 5382237689418927051
+      Pizza: -4523464438633851664
+      Pizza_Slice: -5366835319886614576
+      Porkchop: -4432313496297234222
+      Raman_1: -183551043311531372
+      Raman_2: -7175280998618814143
+      Raman_3: 3661109370939150105
+      Raman_4: -1964197495123791959
+      Raman_5: 1001683292073977363
+      Raman_6: -1349528106400152575
+      Ramane: -8760623655935971194
+      Roast: -7388041852898521084
+      Roast_Chicken: 166983919563068348
+      Roast_Turkey: 5639559720286490275
+      Roasted_Corn: -4187525496588347769
+      Salad: 5875734527561939795
+      Sandwhich_1: -6849723491996147687
+      Sandwhich_2: -7635407945715351904
+      Slime_1: -8703536623329933655
+      Slime_2: -758145067380216192
+      Slime_3: 5924189508257665532
+      Slime_4: 7927344037010607845
+      Soup_1: -299006227118454939
+      Spicy_Candy: -3520607596010894973
+      Squid: -3107013554476757378
+      Steak_1: 448648371991456780
+      Steak_2: -6759279979677682529
+      Stinky_Cheese: -82827110082576654
+      Strawberry: 12535669208037087
+      Sundae: -5620523070182736140
+      Sushi_1: 2706620379538883871
+      Sushi_2: 7164258700898316396
+      Sushi_3: -8536737322291226563
+      Sushi_4: -785127959111278725
+      Sushi_5: -9198591624297145407
+      Sushi_6: -7724376553801721704
+      Sushi_7: 7064938996159511306
+      Sushi_8: 4780946884239326524
+      Tangerines: 2132658338093854891
+      Tofu: 6481241269162971310
+      Waffles: -879118665557176174
+      Waffles_2: -6764436843263163655
+      Waffles_3: 7178665429130228727
+      Water: -5936395358162684043
+      Watermelon: -1889200443201364882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
