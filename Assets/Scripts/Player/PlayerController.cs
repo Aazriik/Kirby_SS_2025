@@ -69,6 +69,7 @@ public class PlayerController : MonoBehaviour
         // Player Movement Horizontal
         float hValue = Input.GetAxis("Horizontal");
         float vValue = Input.GetAxisRaw("Vertical");
+
         // Flip Sprite
         SpriteFlip(hValue);
 
@@ -78,6 +79,15 @@ public class PlayerController : MonoBehaviour
         {
             //apply an upward force to the rigidbody when the jump button is pressed
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        }
+
+        if (Input.GetKey(KeyCode.LeftControl))
+        {
+            anim.SetBool("isCrouching", true);
+        }
+        if (Input.GetKeyUp(KeyCode.LeftControl))
+        {
+            anim.SetBool("isCrouching", false);
         }
 
         if (Input.GetButtonDown("Fire1"))
