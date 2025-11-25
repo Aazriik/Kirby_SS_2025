@@ -90,7 +90,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("isGrounded", isGrounded);
     }
 
-    private void OnValidate() => groundCheck?.UpdateCheckRadius(groundCheckRadius);
+    private void OnValidate() => groundCheck?.UpdateGroundCheckRadius(groundCheckRadius);
 
     private void SpriteFlip(float hValue)
     {
