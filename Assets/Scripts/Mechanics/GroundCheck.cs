@@ -30,14 +30,14 @@ public class GroundCheck
     public bool CheckIsGrounded()
     {
         // Only check for grounding if falling or already grounded
-        if (!isGrounded && rb.linearVelocityY < 0 || isGrounded)
+        if (!isGrounded && rb.linearVelocityY <= 0 || isGrounded)
             isGrounded = Physics2D.OverlapCircle(groundCheckOffPos, groundCheckRadius, groundLayer);
         // Return the grounded status
         return isGrounded;
     }
 
     // Method to update the ground check radius
-    public void UpdateCheckRadius(float newRadius)
+    public void UpdateGroundCheckRadius(float newRadius)
     {
         // Update the ground check radius
         groundCheckRadius = newRadius;
