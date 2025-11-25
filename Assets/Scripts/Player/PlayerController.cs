@@ -145,6 +145,14 @@ public class PlayerController : MonoBehaviour
         jumpPowerupTimer = 0;
     }
 
+    public void TakeDamage(int damage)
+    {
+        lives -= damage;
+        //apply an upward force to the rigidbody when the player takes damage
+        if(!isGrounded) rb.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
+        else rb.AddForce(Vector2.up / 2, ForceMode2D.Impulse);
+    }
+
     public int lives
     {
         get => _lives;

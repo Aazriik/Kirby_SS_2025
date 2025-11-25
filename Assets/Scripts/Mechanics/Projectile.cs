@@ -36,6 +36,24 @@ public class Projectile: MonoBehaviour
             }
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (type == ProjectileType.Enemy)
+        {
+            PlayerController pc = collision.gameObject.GetComponent<PlayerController>();
+
+            if (pc != null)
+            {
+                pc.TakeDamage(1);
+                Destroy(gameObject);
+            }
+            //else
+            //{
+            //    Destroy(gameObject);
+            //}
+        }
+    }
 }
 
 public enum ProjectileType
